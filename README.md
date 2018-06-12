@@ -11,10 +11,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Angular](#angular)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
-- [Node.js](#node-js)
+- [Node.js](#nodejs)
 - [Package Manager](#package-manager)
-- [React](#React)
-- [TypeScript](#typeScript)
+- [React](#react)
+- [TypeScript](#typescript)
 - [VS Code](#vs-code)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
@@ -50,11 +50,6 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [To Yarn and Back (to npm) Again][pm-1].
 
-## VS Code
-
-- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
-- [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
-
 ## React
 
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
@@ -62,6 +57,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## TypeScript
 
 - [What's new in TypeScript 2.9][ts-1].
+
+## VS Code
+
+- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
+- [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 
 ## Web Development
 
