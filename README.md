@@ -142,15 +142,15 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
+- [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
 - [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
 - [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
-- [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+- [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 - [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
-- [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## Contributing
 
