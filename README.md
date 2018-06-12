@@ -8,21 +8,32 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Contents
 
+- [Angular](#angular)
 - [GraphQL](#graphql)
-- [Node.js](#node-js)
-- [VS Code](#vs-code)
-- [Package Manager](#package-manager)
 - [Helper Components](#helper-components)
+- [Node.js](#node-js)
+- [Package Manager](#package-manager)
+- [React](#React)
+- [TypeScript](#typeScript)
+- [VS Code](#vs-code)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
-- [Angular](#angular)
-- [React](#React)
 
 <br>
+
+## Angular
+
+- [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
 ## GraphQL
 
 - [GraphQL: Everything You Need to Know][graphql-1].
+
+## Helper Components
+
+- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
+- [Proppy: Functional Props Composition for UI Components][component-2].
+- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 
 ## Node.js
 
@@ -35,20 +46,22 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Build a Twelve-Factor Node.js App with Docker][nodejs-7].
 - [Using the Experimental ES Module Support in Node 10][nodejs-8].
 
+## Package Manager
+
+- [To Yarn and Back (to npm) Again][pm-1].
+
 ## VS Code
 
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 
-## Package Manager
+## React
 
-- [To Yarn and Back (to npm) Again][pm-1].
+- [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
-## Helper Components
+## TypeScript
 
-- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
-- [Proppy: Functional Props Composition for UI Components][component-2].
-- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
+- [What's new in TypeScript 2.9][ts-1].
 
 ## Web Development
 
@@ -58,18 +71,6 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
-
-## TypeScript
-
-- [What's new in TypeScript 2.9][ts-1].
-
-## Angular
-
-- [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
-
-## React
-
-- [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 <!-- Please add all the links here -->
 
@@ -131,7 +132,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 [react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
