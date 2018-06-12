@@ -35,6 +35,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
+- [9 Javascript Time And Date Libraries For 2018][component-4].
 
 ## Node.js
 
@@ -114,6 +115,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 [component-1]: https://github.com/zewish/rmodal.js
 [component-2]: https://proppyjs.com/
 [component-3]: http://paperjs.org/
+[component-4]: https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d
 
 <!-- Add Links related to web development here -->
 
