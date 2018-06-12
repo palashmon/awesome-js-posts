@@ -28,6 +28,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## GraphQL
 
 - [GraphQL: Everything You Need to Know][graphql-1].
+- [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
 ## Helper Components
 
@@ -62,6 +63,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
+- [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
 
 ## Web Development
 
@@ -84,6 +86,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 <!-- Add Links related to GraphQL here -->
 
 [graphql-1]: https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8
+[graphql-2]: https://www.graphqlstack.com/
 
 <!-- Add Links related to Node.js here -->
 
@@ -100,6 +103,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 [vscode-1]: https://github.com/gaearon/subliminal
 [vscode-2]: https://github.com/sdras/night-owl-vscode-theme
+[vscode-3]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
 <!-- Add Links related to Package Manager here -->
 
