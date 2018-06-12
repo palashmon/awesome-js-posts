@@ -2,7 +2,7 @@
 
 [![Awesome][awesome-badge]][awesome-github]&nbsp;![PRs Welcome][pr-welcome-badge]
 
-A curated list of posts, blogs and repositories related to [JavaScript][javascript].
+A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on daily basis.
 
 <br>
 
@@ -22,54 +22,54 @@ A curated list of posts, blogs and repositories related to [JavaScript][javascri
 
 ## GraphQL
 
-- [GraphQL: Everything You Need to Know][graphql-1]
+- [GraphQL: Everything You Need to Know][graphql-1].
 
 ## Node.js
 
-- [How to Watch for Files Changes in Node.js][nodejs-1]
-- [Getting Started With Ripple (XRP) and Node.js][nodejs-2]
-- [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3]
-- [Building Light Weight Microservices with Redis (and Node)][nodejs-4]
-- [10 Things Ryan Dahl Regrets About Node.js][nodejs-5]
-  - [See also deno: A secure TypeScript runtime on V8][nodejs-6]
-- [Build a Twelve-Factor Node.js App with Docker][nodejs-7]
-- [Using the Experimental ES Module Support in Node 10][nodejs-8]
+- [How to Watch for Files Changes in Node.js][nodejs-1].
+- [Getting Started With Ripple (XRP) and Node.js][nodejs-2].
+- [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3].
+- [Building Light Weight Microservices with Redis (and Node)][nodejs-4].
+- [10 Things Ryan Dahl Regrets About Node.js][nodejs-5].
+  - [See also deno: A secure TypeScript runtime on V8][nodejs-6].
+- [Build a Twelve-Factor Node.js App with Docker][nodejs-7].
+- [Using the Experimental ES Module Support in Node 10][nodejs-8].
 
 ## VS Code
 
-- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1]
-- [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2]
+- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
+- [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 
 ## Package Manager
 
-- [To Yarn and Back (to npm) Again][pm-1]
+- [To Yarn and Back (to npm) Again][pm-1].
 
 ## Helper Components
 
-- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1]
-- [Proppy: Functional Props Composition for UI Components][component-2](_Can integrate with React, Vue, Preact, Redux, and RxJS_)
-- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3]
+- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
+- [Proppy: Functional Props Composition for UI Components][component-2].
+- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 
 ## Web Development
 
-- [Create a Simple Weather App using Node, Express, and React][webdev-1]
+- [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
 ## Webpack
 
-- [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1]
-- [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2]
+- [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
+- [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
 
 ## TypeScript
 
-- [What's new in TypeScript 2.9][ts-1]
+- [What's new in TypeScript 2.9][ts-1].
 
 ## Angular
 
-- [NgRx and Best Practices for Enterprise Angular Applications][angular-1]
+- [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
 ## React
 
-- [Building Serverless Mobile Apps with React Native and AWS][react-1]
+- [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 <!-- Please add all the links here -->
 
@@ -130,3 +130,19 @@ A curated list of posts, blogs and repositories related to [JavaScript][javascri
 <!-- Add Links related to React here -->
 
 [react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
+
+# Other Awesome Lists
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
+- [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
+- [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+- [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+- [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
+- [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
