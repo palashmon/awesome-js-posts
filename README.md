@@ -16,6 +16,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [React](#react)
 - [TypeScript](#typescript)
 - [VS Code](#vs-code)
+- [Vue.js](#vuejs)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
 
@@ -66,6 +67,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 - [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
 
+## Vue.js
+
+- [Build a Basic CRUD App with Vue.js and Node][vue-1]
+
 ## Web Development
 
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
@@ -105,6 +110,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 [vscode-1]: https://github.com/gaearon/subliminal
 [vscode-2]: https://github.com/sdras/night-owl-vscode-theme
 [vscode-3]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+
+<!-- Add Links related to Vue.js here -->
+
+[vue-1]: https://dev.to/oktadev/build-a-basic-crud-app-with-vuejs-and-node-4cl8
 
 <!-- Add Links related to Package Manager here -->
 
