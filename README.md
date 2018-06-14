@@ -70,8 +70,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Build a Basic CRUD App with Vue.js and Node][vue-1]
-- [Replacing jQuery with Vue][vue-2]
-  - <sub><sup>Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects.</sup></sub>
+- [Replacing jQuery with Vue][vue-2]&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
 
 ## Web Development
 
