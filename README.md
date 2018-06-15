@@ -81,6 +81,36 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
 
+## Miscellaneous
+
+- [Microsoft + GitHub = Empowering Developers][misc-1].
+
+## Other Awesome Lists
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
+- [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
+- [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+- [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+- [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
+- [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+## Contributing
+
+- Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Palash Mondal](https://github.com/palashmon) has waived all copyright and related or neighboring rights to this work.
+
 <!-- Please add all the links here -->
 
 <!-- Links related to badges -->
@@ -149,28 +179,6 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 [react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
 
-## Other Awesome Lists
+<!-- Links related to Miscellaneous here -->
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
-- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
-- [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
-- [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
-- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
-- [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-- [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
-- [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
-
-## Contributing
-
-- Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Palash Mondal](https://github.com/palashmon) has waived all copyright and related or neighboring rights to this work.
+[misc-1]: https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
