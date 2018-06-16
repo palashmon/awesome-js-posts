@@ -11,6 +11,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Angular](#angular)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
+- [JavaScript](#javaScript)
 - [Node.js](#nodejs)
 - [Package Manager](#package-manager)
 - [React](#react)
@@ -34,13 +35,20 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 - [9 Javascript Time And Date Libraries For 2018][component-4].
 
+## JavaScript
+
+- [Revising Useful JavaScript Array and Object Methods][js-1]
+- [A JavaScript String Methods Cheatsheet][js-2]
+
 ## Node.js
 
+- [Implementing Feature Flags with Node and React][nodejs-9].
 - [How to Watch for Files Changes in Node.js][nodejs-1].
 - [Getting Started With Ripple (XRP) and Node.js][nodejs-2].
 - [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3].
@@ -70,8 +78,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
-- [Build a Basic CRUD App with Vue.js and Node][vue-1]
-- [Replacing jQuery with Vue][vue-2]&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
+- [Vuesax New framework Components for Vue.js][vue-4].
+- [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
+- [Build a Basic CRUD App with Vue.js and Node][vue-1].
+- [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
 
 ## Web Development
 
@@ -127,6 +137,11 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [graphql-1]: https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8
 [graphql-2]: https://www.graphqlstack.com/
 
+<!-- Add Links related to JavaScript here -->
+
+[js-1]: https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230
+[js-2]: https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d
+
 <!-- Add Links related to Node.js here -->
 
 [nodejs-1]: http://thisdavej.com/how-to-watch-for-files-changes-in-node-js/
@@ -137,6 +152,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [nodejs-6]: https://github.com/ry/deno
 [nodejs-7]: https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker
 [nodejs-8]: https://www.youtube.com/watch?v=teDVlOjOCT0
+[nodejs-9]: https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4
 
 <!-- Add Links related to VS Code here -->
 
@@ -148,6 +164,8 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 
 [vue-1]: https://dev.to/oktadev/build-a-basic-crud-app-with-vuejs-and-node-4cl8
 [vue-2]: https://www.sitepoint.com/replacing-jquery-vue/
+[vue-3]: https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d
+[vue-4]: https://lusaxweb.github.io/vuesax/
 
 <!-- Add Links related to Package Manager here -->
 
@@ -159,6 +177,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [component-2]: https://proppyjs.com/
 [component-3]: http://paperjs.org/
 [component-4]: https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d
+[component-5]: https://netflix.github.io/pollyjs/
 
 <!-- Add Links related to web development here -->
 
