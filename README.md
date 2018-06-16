@@ -35,7 +35,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
-- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].
+- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].&nbsp;&nbsp;![new](new-icon.png)
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
@@ -43,12 +43,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## JavaScript
 
-- [Revising Useful JavaScript Array and Object Methods][js-1]
+- [Revising Useful JavaScript Array and Object Methods][js-1]&nbsp;&nbsp;![new](new-icon.png)
 - [A JavaScript String Methods Cheatsheet][js-2]
 
 ## Node.js
 
-- [Implementing Feature Flags with Node and React][nodejs-9].
+- [Implementing Feature Flags with Node and React][nodejs-9].&nbsp;&nbsp;![new](new-icon.png)
 - [How to Watch for Files Changes in Node.js][nodejs-1].
 - [Getting Started With Ripple (XRP) and Node.js][nodejs-2].
 - [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3].
@@ -78,7 +78,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
-- [Vuesax New framework Components for Vue.js][vue-4].
+- [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;![new](new-icon.png)
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
