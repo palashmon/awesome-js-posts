@@ -11,7 +11,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Angular](#angular)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
-- [JavaScript](#javaScript)
+- [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Package Manager](#package-manager)
 - [React](#react)
