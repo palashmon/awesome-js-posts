@@ -44,6 +44,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Spice up your JavaScript][js-3]&nbsp;&nbsp;![new](new-icon.png)
+- [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4]&nbsp;&nbsp;![new](new-icon.png)
 - [Revising Useful JavaScript Array and Object Methods][js-1]
 - [A JavaScript String Methods Cheatsheet][js-2]
 
@@ -144,6 +145,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [js-1]: https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230
 [js-2]: https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d
 [js-3]: https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5
+[js-4]: https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
 
 <!-- Add Links related to Node.js here -->
 
