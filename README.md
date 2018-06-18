@@ -83,6 +83,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
+- [Useful Vue patterns, techniques, tips and tricks and helpful curated links][vue-5].
 
 ## Web Development
 
@@ -168,6 +169,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [vue-2]: https://www.sitepoint.com/replacing-jquery-vue/
 [vue-3]: https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d
 [vue-4]: https://lusaxweb.github.io/vuesax/
+[vue-5]: https://github.com/learn-vuejs/vue-patterns
 
 <!-- Add Links related to Package Manager here -->
 
