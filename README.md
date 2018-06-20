@@ -98,6 +98,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
+- [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;![new](new-icon.png)
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
 
@@ -212,3 +213,4 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 
 [misc-1]: https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
 [misc-2]: https://medium.com/@ow/microsoft-acquiring-github-is-a-good-thing-heres-why-6a6a57eb83ac
+[misc-3]: https://idiallo.com/blog/when-a-machine-fired-me
