@@ -66,6 +66,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [React Native at Airbnb][react-2].&nbsp;&nbsp;![new](new-icon.png)
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 ## TypeScript
@@ -205,6 +206,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 <!-- Add Links related to React here -->
 
 [react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
+[react-2]: https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c
 
 <!-- Links related to Miscellaneous here -->
 
