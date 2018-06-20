@@ -2,7 +2,7 @@
 
 [![Awesome][awesome-badge]][awesome-github]&nbsp;![PRs Welcome][pr-welcome-badge]
 
-A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on daily basis.
+A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on weekly basis.
 
 <br>
 
