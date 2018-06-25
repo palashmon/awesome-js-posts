@@ -43,10 +43,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## JavaScript
 
-- [Spice up your JavaScript][js-3]&nbsp;&nbsp;![new](new-icon.png)
-- [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4]&nbsp;&nbsp;![new](new-icon.png)
-- [Revising Useful JavaScript Array and Object Methods][js-1]
-- [A JavaScript String Methods Cheatsheet][js-2]
+- [A minimal guide to ECMAScript Decorators][js-6].&nbsp;&nbsp;![new](new-icon.png)
+- [11 Javascript Resources For Every Level of Expertise][js-5].&nbsp;&nbsp;![new](new-icon.png)
+- [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4].
+- [Spice up your JavaScript][js-3].
+- [Revising Useful JavaScript Array and Object Methods][js-1].
+- [A JavaScript String Methods Cheatsheet][js-2].
 
 ## Node.js
 
@@ -88,6 +90,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;![new](new-icon.png)
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
 ## Webpack
@@ -146,6 +149,8 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [js-2]: https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d
 [js-3]: https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5
 [js-4]: https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
+[js-5]: https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources
+[js-6]: https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 
 <!-- Add Links related to Node.js here -->
 
@@ -188,6 +193,7 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 <!-- Add Links related to web development here -->
 
 [webdev-1]: https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
+[webdev-2]: https://medium.com/@fagnerbrack/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6
 
 <!-- Add Links related to Webpack here -->
 
