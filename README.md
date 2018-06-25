@@ -43,8 +43,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## JavaScript
 
-- [A minimal guide to ECMAScript Decorators][js-6].&nbsp;&nbsp;![new](new-icon.png)
-- [11 Javascript Resources For Every Level of Expertise][js-5].&nbsp;&nbsp;![new](new-icon.png)
+- [What’s New In ES2018][js-8].&nbsp;&nbsp;![new](new-icon.png)
+- [A minimal guide to ECMAScript Decorators][js-7].&nbsp;&nbsp;![new](new-icon.png)
+- [11 Javascript Resources For Every Level of Expertise][js-6].&nbsp;&nbsp;![new](new-icon.png)
+- [Understanding the Almighty Reducer][js-5].
 - [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4].
 - [Spice up your JavaScript][js-3].
 - [Revising Useful JavaScript Array and Object Methods][js-1].
@@ -52,6 +54,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].&nbsp;&nbsp;![new](new-icon.png)
+- [Getting Started with Docker Images for Node Apps][nodejs-10].&nbsp;&nbsp;![new](new-icon.png)
 - [Implementing Feature Flags with Node and React][nodejs-9].&nbsp;&nbsp;![new](new-icon.png)
 - [How to Watch for Files Changes in Node.js][nodejs-1].
 - [Getting Started With Ripple (XRP) and Node.js][nodejs-2].
@@ -151,8 +155,10 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [js-2]: https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d
 [js-3]: https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5
 [js-4]: https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
-[js-5]: https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources
-[js-6]: https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+[js-5]: https://css-tricks.com/understanding-the-almighty-reducer/
+[js-6]: https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources
+[js-7]: https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+[js-8]: https://www.sitepoint.com/es2018-whats-new/
 
 <!-- Add Links related to Node.js here -->
 
@@ -165,6 +171,8 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 [nodejs-7]: https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker
 [nodejs-8]: https://www.youtube.com/watch?v=teDVlOjOCT0
 [nodejs-9]: https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4
+[nodejs-10]: https://code.visualstudio.com/tutorials/docker-extension/getting-started
+[nodejs-11]: https://github.com/salsita/node-pg-migrate
 
 <!-- Add Links related to VS Code here -->
 
