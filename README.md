@@ -2,7 +2,7 @@
 
 [![Awesome][awesome-badge]][awesome-github]&nbsp;![PRs Welcome][pr-welcome-badge]
 
-A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on daily basis.
+A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on weekly basis.
 
 <br>
 
@@ -68,6 +68,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [React Native at Airbnb][react-2].&nbsp;&nbsp;![new](new-icon.png)
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 ## TypeScript
@@ -100,6 +101,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
+- [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;![new](new-icon.png)
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
 
@@ -211,8 +213,10 @@ To the extent possible under law, [Palash Mondal](https://github.com/palashmon) 
 <!-- Add Links related to React here -->
 
 [react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
+[react-2]: https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c
 
 <!-- Links related to Miscellaneous here -->
 
 [misc-1]: https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
 [misc-2]: https://medium.com/@ow/microsoft-acquiring-github-is-a-good-thing-heres-why-6a6a57eb83ac
+[misc-3]: https://idiallo.com/blog/when-a-machine-fired-me
