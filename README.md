@@ -44,8 +44,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [What’s New In ES2018][js-8].&nbsp;&nbsp;![new](new-icon.png)
-- [A minimal guide to ECMAScript Decorators][js-7].&nbsp;&nbsp;![new](new-icon.png)
-- [11 Javascript Resources For Every Level of Expertise][js-6].&nbsp;&nbsp;![new](new-icon.png)
+- [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).&nbsp;&nbsp;![new](new-icon.png)
+- [A minimal guide to ECMAScript Decorators][js-7].
+- [11 Javascript Resources For Every Level of Expertise][js-6].
 - [Understanding the Almighty Reducer][js-5].
 - [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4].
 - [Spice up your JavaScript][js-3].
@@ -54,9 +55,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
-- [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].&nbsp;&nbsp;![new](new-icon.png)
-- [Getting Started with Docker Images for Node Apps][nodejs-10].&nbsp;&nbsp;![new](new-icon.png)
-- [Implementing Feature Flags with Node and React][nodejs-9].&nbsp;&nbsp;![new](new-icon.png)
+- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;![new](new-icon.png)
+- [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).&nbsp;&nbsp;![new](new-icon.png)
+- [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
+- [Getting Started with Docker Images for Node Apps][nodejs-10].
+- [Implementing Feature Flags with Node and React][nodejs-9].
 - [How to Watch for Files Changes in Node.js][nodejs-1].
 - [Getting Started With Ripple (XRP) and Node.js][nodejs-2].
 - [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3].
@@ -88,6 +91,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
+- [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;![new](new-icon.png)
 - [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;![new](new-icon.png)
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
@@ -96,6 +100,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).&nbsp;&nbsp;![new](new-icon.png)
+- [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).&nbsp;&nbsp;![new](new-icon.png)
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;![new](new-icon.png)
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
