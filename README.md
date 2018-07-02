@@ -65,7 +65,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
   - [See also deno: A secure TypeScript runtime on V8][nodejs-6].
 - [Build a Twelve-Factor Node.js App with Docker][nodejs-7].
 - [Using the Experimental ES Module Support in Node 10][nodejs-8].
-- [Securing Node.js RESTful APIs with JSON Web Tokens][https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52].
+- [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52).
 
 ## Package Manager
 
