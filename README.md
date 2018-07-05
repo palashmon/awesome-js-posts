@@ -30,6 +30,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## GraphQL
 
+- [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).&nbsp;&nbsp;![new](new-icon.png)
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
