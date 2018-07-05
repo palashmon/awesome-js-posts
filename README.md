@@ -44,8 +44,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## JavaScript
 
+- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;![new](new-icon.png)
 - [What’s New In ES2018][js-8].&nbsp;&nbsp;![new](new-icon.png)
-- [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).&nbsp;&nbsp;![new](new-icon.png)
+- [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).
 - [A minimal guide to ECMAScript Decorators][js-7].
 - [11 Javascript Resources For Every Level of Expertise][js-6].
 - [Understanding the Almighty Reducer][js-5].
