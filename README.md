@@ -86,6 +86,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## VS Code
 
+- [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/).&nbsp;&nbsp;![new](new-icon.png)
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 - [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
