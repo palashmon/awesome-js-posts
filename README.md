@@ -27,6 +27,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).&nbsp;&nbsp;![new](new-icon.png)
+- [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
 ## GraphQL
