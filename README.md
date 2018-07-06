@@ -20,6 +20,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Vue.js](#vuejs)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
+- [MongoDB](#mongodb)
 - [Miscellaneous](#miscellaneous)
 
 <br>
@@ -114,6 +115,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
+
+## MongoDB
+
+- [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
 
 ## Miscellaneous
 
