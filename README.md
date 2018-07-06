@@ -104,8 +104,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;![new](new-icon.png)
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).&nbsp;&nbsp;![new](new-icon.png)
-- [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).&nbsp;&nbsp;![new](new-icon.png)
+- [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;![new](new-icon.png)
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
