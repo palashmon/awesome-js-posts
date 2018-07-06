@@ -87,6 +87,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## TypeScript
 
 - [What's new in TypeScript 2.9][ts-1].
+- [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
 
 ## VS Code
 
