@@ -27,19 +27,19 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
-- [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).&nbsp;&nbsp;![new](new-icon.png)
+- [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).&nbsp;&nbsp;:new:
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
 ## GraphQL
 
-- [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).&nbsp;&nbsp;![new](new-icon.png)
+- [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).&nbsp;&nbsp;:new:
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
 ## Helper Components
 
-- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].&nbsp;&nbsp;![new](new-icon.png)
+- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].&nbsp;&nbsp;:new:
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
@@ -47,8 +47,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## JavaScript
 
-- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;![new](new-icon.png)
-- [What’s New In ES2018][js-8].&nbsp;&nbsp;![new](new-icon.png)
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;:new:
+- [What’s New In ES2018][js-8].&nbsp;&nbsp;:new:
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).
 - [A minimal guide to ECMAScript Decorators][js-7].
 - [11 Javascript Resources For Every Level of Expertise][js-6].
@@ -60,8 +61,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
-- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;![new](new-icon.png)
-- [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).&nbsp;&nbsp;![new](new-icon.png)
+- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;:new:
+- [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).&nbsp;&nbsp;:new:
 - [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
 - [Getting Started with Docker Images for Node Apps][nodejs-10].
 - [Implementing Feature Flags with Node and React][nodejs-9].
@@ -81,17 +82,19 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
-- [React Native at Airbnb][react-2].&nbsp;&nbsp;![new](new-icon.png)
+- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>&nbsp;&nbsp;:new:
+- [React Native at Airbnb][react-2].&nbsp;&nbsp;:new:
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 ## TypeScript
 
 - [What's new in TypeScript 2.9][ts-1].
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
+- [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 
 ## VS Code
 
-- [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/).&nbsp;&nbsp;![new](new-icon.png)
+- [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/).&nbsp;&nbsp;:new:
 - [Syntax Highlighting in VS Code for HTML Inside of JavaScript](https://github.com/mjbvz/vscode-lit-html).
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
@@ -99,8 +102,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
-- [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;![new](new-icon.png)
-- [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;![new](new-icon.png)
+- [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;:new:
+- [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;:new:
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
@@ -108,10 +111,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
-- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;![new](new-icon.png)
-- [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).&nbsp;&nbsp;![new](new-icon.png)
+- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;:new:
+- [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).&nbsp;&nbsp;:new:
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
-- [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;![new](new-icon.png)
+- [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;:new:
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
 ## Webpack
@@ -125,7 +128,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
-- [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;![new](new-icon.png)
+- [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;:new:
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
 
