@@ -33,12 +33,15 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## GraphQL
 
+- [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).&nbsp;&nbsp;:new:
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).&nbsp;&nbsp;:new:
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
 ## Helper Components
 
+- [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).&nbsp;&nbsp;:new:
+- [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).&nbsp;&nbsp;:new:
 - [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].&nbsp;&nbsp;:new:
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
@@ -61,8 +64,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).&nbsp;&nbsp;:new:
+- [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).&nbsp;&nbsp;:new:
 - [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;:new:
-- [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).&nbsp;&nbsp;:new:
+- [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).
 - [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
 - [Getting Started with Docker Images for Node Apps][nodejs-10].
 - [Implementing Feature Flags with Node and React][nodejs-9].
@@ -82,8 +87,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).&nbsp;&nbsp;:new:
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>&nbsp;&nbsp;:new:
-- [React Native at Airbnb][react-2].&nbsp;&nbsp;:new:
+- [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
 ## TypeScript
@@ -111,10 +117,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).&nbsp;&nbsp;:new:
 - [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;:new:
-- [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).&nbsp;&nbsp;:new:
+- [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
-- [The Problem You Solve Is More Important Than The Code You Write][webdev-2].&nbsp;&nbsp;:new:
+- [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
 ## Webpack
