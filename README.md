@@ -40,9 +40,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/).&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>&nbsp;&nbsp;:new:
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).&nbsp;&nbsp;:new:
 - [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).&nbsp;&nbsp;:new:
-- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].&nbsp;&nbsp;:new:
+- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
