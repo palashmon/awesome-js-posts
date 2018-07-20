@@ -94,6 +94,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## TypeScript
 
+- [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).&nbsp;&nbsp;:new:
 - [What's new in TypeScript 2.9][ts-1].
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
