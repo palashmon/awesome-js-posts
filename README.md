@@ -27,6 +27,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).&nbsp;&nbsp;:new:
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).&nbsp;&nbsp;:new:
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
@@ -40,9 +41,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).&nbsp;&nbsp;:new:
 - [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/).&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>&nbsp;&nbsp;:new:
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).&nbsp;&nbsp;:new:
-- [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).&nbsp;&nbsp;:new:
+- [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).
 - [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5].
 - [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1].
 - [Proppy: Functional Props Composition for UI Components][component-2].
@@ -52,6 +54,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).&nbsp;&nbsp;:new:
 - [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;:new:
 - [What’s New In ES2018][js-8].&nbsp;&nbsp;:new:
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).
