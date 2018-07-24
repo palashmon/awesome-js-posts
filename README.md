@@ -115,6 +115,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
+- [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).&nbsp;&nbsp;:new:
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;:new:
 - [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;:new:
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
