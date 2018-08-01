@@ -58,6 +58,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).&nbsp;&nbsp;:new:
 - [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).&nbsp;&nbsp;:new:
 - [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).&nbsp;&nbsp;:new:
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).&nbsp;&nbsp;:new:
@@ -122,6 +123,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
+- [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).&nbsp;&nbsp;:new:
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).&nbsp;&nbsp;:new:
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;:new:
 - [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;:new:
