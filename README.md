@@ -42,10 +42,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).&nbsp;&nbsp;:new:
 - [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).&nbsp;&nbsp;:new:
 - [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).&nbsp;&nbsp;:new:
 - [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).&nbsp;&nbsp;:new:
-- [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c).&nbsp;&nbsp;:new:
+- [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
 - [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/).&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).
 - [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).
@@ -75,10 +76,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).&nbsp;&nbsp;:new:
 - [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).&nbsp;&nbsp;:new:
 - [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).&nbsp;&nbsp;:new:
 - [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).&nbsp;&nbsp;:new:
-- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;:new:
+- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).
 - [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).
 - [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
 - [Getting Started with Docker Images for Node Apps][nodejs-10].
