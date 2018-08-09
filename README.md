@@ -42,10 +42,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).&nbsp;&nbsp;:new:
 - [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).&nbsp;&nbsp;:new:
 - [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).&nbsp;&nbsp;:new:
 - [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).&nbsp;&nbsp;:new:
-- [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).&nbsp;&nbsp;:new:
+- [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).
+- [StealJS 2.0: The 'Futuristic' Dependency Loader and Builder](https://www.bitovi.com/blog/steal-2.0).
 - [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
 - [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/).&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).
@@ -59,11 +61,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).&nbsp;&nbsp;:new:
 - [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).&nbsp;&nbsp;:new:
 - [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).&nbsp;&nbsp;:new:
 - [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).&nbsp;&nbsp;:new:
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).&nbsp;&nbsp;:new:
-- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;:new:
+- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).
 - [What’s New In ES2018][js-8].
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).
 - [A minimal guide to ECMAScript Decorators][js-7].
