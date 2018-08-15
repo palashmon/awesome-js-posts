@@ -27,8 +27,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9).&nbsp;&nbsp;:new:
+- [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6).&nbsp;&nbsp;:new:
 - [Pushing the Limits of the Web with Angular](https://youtu.be/gMMXoodQ1hc).&nbsp;&nbsp;:new:
-- [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).&nbsp;&nbsp;:new:
+- [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
@@ -42,10 +44,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).&nbsp;&nbsp;:new:
+- [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).&nbsp;&nbsp;:new:
 - [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).&nbsp;&nbsp;:new:
 - [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).&nbsp;&nbsp;:new:
 - [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).&nbsp;&nbsp;:new:
-- [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).&nbsp;&nbsp;:new:
+- [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).
 - [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).
 - [StealJS 2.0: The 'Futuristic' Dependency Loader and Builder](https://www.bitovi.com/blog/steal-2.0).
 - [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
@@ -79,10 +83,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).&nbsp;&nbsp;:new:
+- [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).&nbsp;&nbsp;:new:
 - [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).&nbsp;&nbsp;:new:
 - [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).&nbsp;&nbsp;:new:
-- [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).&nbsp;&nbsp;:new:
-- [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).&nbsp;&nbsp;:new:
+- [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).
+- [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).
 - [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).
 - [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).
 - [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
