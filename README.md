@@ -44,11 +44,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).&nbsp;&nbsp;:new:
 - [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).&nbsp;&nbsp;:new:
 - [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).&nbsp;&nbsp;:new:
 - [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).&nbsp;&nbsp;:new:
-- [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).&nbsp;&nbsp;:new:
-- [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).&nbsp;&nbsp;:new:
+- [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).
+- [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).
 - [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).
 - [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).
 - [StealJS 2.0: The 'Futuristic' Dependency Loader and Builder](https://www.bitovi.com/blog/steal-2.0).
