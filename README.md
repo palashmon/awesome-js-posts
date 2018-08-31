@@ -9,12 +9,14 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Contents
 
 - [Angular](#angular)
+- [Ember.js](#emberjs)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Package Manager](#package-manager)
 - [React](#react)
+- [TensorFlow.js](#tensorflowjs)
 - [TypeScript](#typescript)
 - [VS Code](#vs-code)
 - [Vue.js](#vuejs)
@@ -30,12 +32,17 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).&nbsp;&nbsp;:new:
 - [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).&nbsp;&nbsp;:new:
 - [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9).&nbsp;&nbsp;:new:
+- [Managing State in Angular using Akita](https://blog.ng-book.com/managing-state-in-angular-using-akita/).
 - [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6).
 - [Pushing the Limits of the Web with Angular](https://youtu.be/gMMXoodQ1hc).
 - [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
+
+## Ember.js
+
+- [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
 
 ## GraphQL
 
@@ -68,11 +75,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).&nbsp;&nbsp;:new:
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).&nbsp;&nbsp;:new:
 - [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).&nbsp;&nbsp;:new:
 - [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).&nbsp;&nbsp;:new:
-- [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).&nbsp;&nbsp;:new:
-- [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).&nbsp;&nbsp;:new:
+- [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).
+- [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).
 - [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).
 - [What’s New In ES2018][js-8].
@@ -87,10 +95,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).&nbsp;&nbsp;:new:
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).&nbsp;&nbsp;:new:
 - [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).&nbsp;&nbsp;:new:
 - [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).&nbsp;&nbsp;:new:
-- [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).&nbsp;&nbsp;:new:
+- [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).
 - [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).
 - [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).
 - [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).
@@ -121,6 +130,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
+## TensorFlow.js
+
+- [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/).
+
 ## TypeScript
 
 - [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:new:
@@ -139,10 +152,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Vue.js
 
-- [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb).&nbsp;&nbsp;:pushpin:
-- [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880).&nbsp;&nbsp;:new:
+- [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).&nbsp;&nbsp;:new:
+- [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)&nbsp;&nbsp;:new:
 - [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).&nbsp;&nbsp;:new:
-- [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).&nbsp;&nbsp;:new:
+- [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).
 - [Vuesax New framework Components for Vue.js][vue-4].
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
@@ -152,8 +166,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6).&nbsp;&nbsp;:new:
 - [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).&nbsp;&nbsp;:new:
-- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;:new:
+- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
