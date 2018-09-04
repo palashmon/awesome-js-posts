@@ -75,10 +75,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).&nbsp;&nbsp;:new:
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).&nbsp;&nbsp;:new:
 - [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).&nbsp;&nbsp;:new:
-- [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).&nbsp;&nbsp;:new:
+- [Level up your `.filter` game](https://css-tricks.com/level-up-your-filter-game/).
+- [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).
 - [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).
 - [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).
@@ -136,7 +138,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## TypeScript
 
-- [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:new:
+- [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:pushpin:
+- [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/).<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>&nbsp;&nbsp;:new:
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).
 - [What's new in TypeScript 2.9][ts-1].
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
@@ -153,9 +156,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/).&nbsp;&nbsp;:new:
 - [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).&nbsp;&nbsp;:new:
 - [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)&nbsp;&nbsp;:new:
-- [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).&nbsp;&nbsp;:new:
+- [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).
 - [Vuesax New framework Components for Vue.js][vue-4].
