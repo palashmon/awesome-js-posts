@@ -53,10 +53,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).&nbsp;&nbsp;:new:
 - [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).&nbsp;&nbsp;:new:
 - [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).&nbsp;&nbsp;:new:
 - [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).&nbsp;&nbsp;:new:
-- [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).&nbsp;&nbsp;:new:
+- [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).
 - [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).
 - [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).
 - [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).
@@ -134,11 +135,13 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## TensorFlow.js
 
-- [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/).
+- [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
+- [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
 
 ## TypeScript
 
 - [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:pushpin:
+- [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/).&nbsp;&nbsp;:new:
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/).<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>&nbsp;&nbsp;:new:
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).
 - [What's new in TypeScript 2.9][ts-1].
