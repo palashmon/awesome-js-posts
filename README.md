@@ -29,9 +29,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).&nbsp;&nbsp;:new:
 - [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).&nbsp;&nbsp;:new:
 - [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).&nbsp;&nbsp;:new:
-- [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9).&nbsp;&nbsp;:new:
+- [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9)
 - [Managing State in Angular using Akita](https://blog.ng-book.com/managing-state-in-angular-using-akita/).
 - [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6).
 - [Pushing the Limits of the Web with Angular](https://youtu.be/gMMXoodQ1hc).
@@ -53,10 +54,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
-- [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).&nbsp;&nbsp;:new:
-- [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).&nbsp;&nbsp;:new:
-- [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).&nbsp;&nbsp;:new:
-- [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).&nbsp;&nbsp;:new:
+- [Nodebook: A Minimalist Node REPL with a Web-Based UI](https://github.com/netgusto/nodebook).
+- [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).
+- [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).
+- [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).
+- [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).
 - [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).
 - [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).
 - [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).
@@ -76,10 +78,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).&nbsp;&nbsp;:new:
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).&nbsp;&nbsp;:new:
-- [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).&nbsp;&nbsp;:new:
+- [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).
 - [Level up your `.filter` game](https://css-tricks.com/level-up-your-filter-game/).
 - [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).
 - [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).
@@ -188,6 +191,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## MongoDB
 
+- [A Guide to Building a REST API with Node.js and MongoDB](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
 
 ## Miscellaneous
