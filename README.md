@@ -196,6 +196,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
+- [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
 - [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;:new:
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
