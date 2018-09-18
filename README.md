@@ -41,9 +41,13 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
+**[⬆ back to top](#contents)**
+
 ## Ember.js
 
 - [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
+
+**[⬆ back to top](#contents)**
 
 ## GraphQL
 
@@ -52,8 +56,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
+**[⬆ back to top](#contents)**
+
 ## Helper Components
 
+- [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky).
 - [Nodebook: A Minimalist Node REPL with a Web-Based UI](https://github.com/netgusto/nodebook).
 - [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).
 - [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).
@@ -74,6 +81,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 - [9 Javascript Time And Date Libraries For 2018][component-4].
+
+**[⬆ back to top](#contents)**
 
 ## JavaScript
 
@@ -98,6 +107,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Spice up your JavaScript][js-3].
 - [Revising Useful JavaScript Array and Object Methods][js-1].
 - [A JavaScript String Methods Cheatsheet][js-2].
+
+**[⬆ back to top](#contents)**
 
 ## Node.js
 
@@ -124,10 +135,15 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Using the Experimental ES Module Support in Node 10][nodejs-8].
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52).
 
+**[⬆ back to top](#contents)**
+
 ## Package Manager
 
-- [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages).&nbsp;&nbsp;:new:
+- [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management).&nbsp;&nbsp;:new:
+- [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
 - [To Yarn and Back (to npm) Again][pm-1].
+
+**[⬆ back to top](#contents)**
 
 ## React
 
@@ -136,10 +152,14 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 
+**[⬆ back to top](#contents)**
+
 ## TensorFlow.js
 
 - [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
 - [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
+
+**[⬆ back to top](#contents)**
 
 ## TypeScript
 
@@ -151,6 +171,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 
+**[⬆ back to top](#contents)**
+
 ## VS Code
 
 - [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/).&nbsp;&nbsp;:new:
@@ -158,6 +180,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 - [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
+
+**[⬆ back to top](#contents)**
 
 ## Vue.js
 
@@ -174,6 +198,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
 - [Useful Vue patterns, techniques, tips and tricks and helpful curated links][vue-5].
 
+**[⬆ back to top](#contents)**
+
 ## Web Development
 
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6).&nbsp;&nbsp;:new:
@@ -184,15 +210,21 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 
+**[⬆ back to top](#contents)**
+
 ## Webpack
 
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
 
+**[⬆ back to top](#contents)**
+
 ## MongoDB
 
 - [A Guide to Building a REST API with Node.js and MongoDB](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
+
+**[⬆ back to top](#contents)**
 
 ## Miscellaneous
 
@@ -200,6 +232,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;:new:
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
+
+**[⬆ back to top](#contents)**
 
 ## Other Awesome Lists
 
@@ -216,6 +250,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 - [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 - [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+**[⬆ back to top](#contents)**
 
 ## Contributing
 
