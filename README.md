@@ -60,6 +60,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [low.js: A Node.js Port for Embedded Devices](http://www.lowjs.org/).
 - [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky).
 - [Nodebook: A Minimalist Node REPL with a Web-Based UI](https://github.com/netgusto/nodebook).
 - [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).
@@ -87,10 +88,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).&nbsp;&nbsp;:new:
-- [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).&nbsp;&nbsp;:new:
+- [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).
 - [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).
 - [Level up your `.filter` game](https://css-tricks.com/level-up-your-filter-game/).
 - [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).
@@ -202,8 +204,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417).&nbsp;&nbsp;:new:
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6).&nbsp;&nbsp;:new:
-- [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).&nbsp;&nbsp;:new:
+- [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).
 - [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
