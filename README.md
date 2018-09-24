@@ -188,9 +188,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).&nbsp;&nbsp;:new:
 - [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/).&nbsp;&nbsp;:new:
 - [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).&nbsp;&nbsp;:new:
-- [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)&nbsp;&nbsp;:new:
+- [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)
 - [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).
@@ -204,8 +205,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).&nbsp;&nbsp;:new:
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417).&nbsp;&nbsp;:new:
-- [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6).&nbsp;&nbsp;:new:
+- [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
 - [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).
 - [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).
