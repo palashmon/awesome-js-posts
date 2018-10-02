@@ -60,6 +60,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Sublime Merge: A New Git Client from the Makers of Sublime Text](https://www.sublimemerge.com/).
 - [low.js: A Node.js Port for Embedded Devices](http://www.lowjs.org/).
 - [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky).
 - [Nodebook: A Minimalist Node REPL with a Web-Based UI](https://github.com/netgusto/nodebook).
@@ -88,10 +89,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).&nbsp;&nbsp;:new:
 - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
-- [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).&nbsp;&nbsp;:new:
+- [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).
 - [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).
 - [Level up your `.filter` game](https://css-tricks.com/level-up-your-filter-game/).
@@ -141,7 +143,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Package Manager
 
-- [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management).&nbsp;&nbsp;:new:
+- [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/).&nbsp;&nbsp;:new:
+- [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management).
 - [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
 - [To Yarn and Back (to npm) Again][pm-1].
 
@@ -205,8 +208,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
 - [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).&nbsp;&nbsp;:new:
-- [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417).&nbsp;&nbsp;:new:
+- [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
 - [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).
 - [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).
