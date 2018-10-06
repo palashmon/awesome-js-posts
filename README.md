@@ -103,6 +103,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>&nbsp;&nbsp;:new:
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
+- [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
 
 ## TypeScript
 
