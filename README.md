@@ -9,6 +9,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Contents
 
 - [Angular](#angular)
+- [D3.js](#d3js)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
 - [JavaScript](#javascript)
@@ -32,6 +33,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
+
+## D3.js
+- [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
 
 ## GraphQL
 
