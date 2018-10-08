@@ -10,12 +10,14 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Angular](#angular)
 - [D3.js](#d3js)
+- [Ember.js](#emberjs)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Package Manager](#package-manager)
 - [React](#react)
+- [TensorFlow.js](#tensorflowjs)
 - [TypeScript](#typescript)
 - [VS Code](#vs-code)
 - [Vue.js](#vuejs)
@@ -28,14 +30,28 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
-- [Pushing the Limits of the Web with Angular](https://youtu.be/gMMXoodQ1hc).&nbsp;&nbsp;:new:
-- [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).&nbsp;&nbsp;:new:
+- [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).&nbsp;&nbsp;:new:
+- [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).&nbsp;&nbsp;:new:
+- [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).&nbsp;&nbsp;:new:
+- [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9)
+- [Managing State in Angular using Akita](https://blog.ng-book.com/managing-state-in-angular-using-akita/).
+- [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6).
+- [Pushing the Limits of the Web with Angular](https://youtu.be/gMMXoodQ1hc).
+- [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/).
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4).
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e).
 - [NgRx and Best Practices for Enterprise Angular Applications][angular-1].
 
+**[⬆ back to top](#contents)**
+
 ## D3.js
 - [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
+
+## Ember.js
+
+- [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
+
+**[⬆ back to top](#contents)**
 
 ## GraphQL
 
@@ -44,12 +60,25 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
+**[⬆ back to top](#contents)**
+
 ## Helper Components
 
-- [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).&nbsp;&nbsp;:new:
-- [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).&nbsp;&nbsp;:new:
-- [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).&nbsp;&nbsp;:new:
-- [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c).&nbsp;&nbsp;:new:
+- [Sublime Merge: A New Git Client from the Makers of Sublime Text](https://www.sublimemerge.com/).
+- [low.js: A Node.js Port for Embedded Devices](http://www.lowjs.org/).
+- [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky).
+- [Nodebook: A Minimalist Node REPL with a Web-Based UI](https://github.com/netgusto/nodebook).
+- [routeGen: Define Your API and SPA Routes in One Place, Then Use Them Globally](https://github.com/drewjbartlett/routegen).
+- [Pts: A Library for Visualization and Creative Coding](https://ptsjs.org/).
+- [PrettyError: See Node.js Errors with Less Clutter and Better Formatting](https://github.com/AriaMinaei/pretty-error).
+- [Dumper.js: A Pretty Variable Inspector for Node](https://github.com/zeeshanu/dumper.js).
+- [Building Interactive Bar Charts with D3.js](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/).
+- [FormStorage: Keep Form Data Stored Locally After Submission](https://appleple.github.io/form-storage/).
+- [v8n: A JavaScript Fluent Validation Library](https://github.com/imbrn/v8n).
+- [TOAST UI Grid: A Powerful Data Grid Control](http://ui.toast.com/tui-grid/).
+- [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/).
+- [StealJS 2.0: The 'Futuristic' Dependency Loader and Builder](https://www.bitovi.com/blog/steal-2.0).
+- [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
 - [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/).&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505).
 - [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax).
@@ -59,13 +88,25 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 - [9 Javascript Time And Date Libraries For 2018][component-4].
 
+**[⬆ back to top](#contents)**
+
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
-- [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).&nbsp;&nbsp;:new:
-- [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).&nbsp;&nbsp;:new:
-- [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).&nbsp;&nbsp;:new:
-- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).&nbsp;&nbsp;:new:
+- [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
+- [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).&nbsp;&nbsp;:new:
+- [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
+- [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
+- [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
+- [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).
+- [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).
+- [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).
+- [Level up your `.filter` game](https://css-tricks.com/level-up-your-filter-game/).
+- [Private and Public Scope in Javascript](https://www.codementor.io/ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js).
+- [Native JavaScript Modules](https://youtu.be/RIct51T6ZoA).
+- [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/).
+- [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg).
+- [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA).
 - [What’s New In ES2018][js-8].
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/).
 - [A minimal guide to ECMAScript Decorators][js-7].
@@ -76,12 +117,19 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Revising Useful JavaScript Array and Object Methods][js-1].
 - [A JavaScript String Methods Cheatsheet][js-2].
 
+**[⬆ back to top](#contents)**
+
 ## Node.js
 
-- [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).&nbsp;&nbsp;:new:
-- [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).&nbsp;&nbsp;:new:
-- [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).&nbsp;&nbsp;:new:
-- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).&nbsp;&nbsp;:new:
+- [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).&nbsp;&nbsp;:new:
+- [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).&nbsp;&nbsp;:new:
+- [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).&nbsp;&nbsp;:new:
+- [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).&nbsp;&nbsp;:new:
+- [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).
+- [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).
+- [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).
+- [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391).
+- [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk).
 - [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953).
 - [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11].
 - [Getting Started with Docker Images for Node Apps][nodejs-10].
@@ -96,10 +144,16 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Using the Experimental ES Module Support in Node 10][nodejs-8].
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52).
 
+**[⬆ back to top](#contents)**
+
 ## Package Manager
 
-- [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages).&nbsp;&nbsp;:new:
+- [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/).&nbsp;&nbsp;:new:
+- [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management).
+- [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
 - [To Yarn and Back (to npm) Again][pm-1].
+
+**[⬆ back to top](#contents)**
 
 ## React
 
@@ -109,12 +163,26 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
 
+**[⬆ back to top](#contents)**
+
+## TensorFlow.js
+
+- [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
+- [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
+
+**[⬆ back to top](#contents)**
+
 ## TypeScript
 
-- [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).&nbsp;&nbsp;:new:
+- [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:pushpin:
+- [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/).&nbsp;&nbsp;:new:
+- [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/).<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>&nbsp;&nbsp;:new:
+- [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).
 - [What's new in TypeScript 2.9][ts-1].
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
+
+**[⬆ back to top](#contents)**
 
 ## VS Code
 
@@ -124,39 +192,63 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 - [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
 
+**[⬆ back to top](#contents)**
+
 ## Vue.js
 
-- [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).&nbsp;&nbsp;:new:
-- [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).&nbsp;&nbsp;:new:
-- [Vuesax New framework Components for Vue.js][vue-4].&nbsp;&nbsp;:new:
+- [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).&nbsp;&nbsp;:new:
+- [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/).&nbsp;&nbsp;:new:
+- [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).&nbsp;&nbsp;:new:
+- [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)
+- [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).
+- [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).
+- [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/).
+- [Vuesax New framework Components for Vue.js][vue-4].
 - [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3].
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
 - [Useful Vue patterns, techniques, tips and tricks and helpful curated links][vue-5].
 
+**[⬆ back to top](#contents)**
+
 ## Web Development
 
-- [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).&nbsp;&nbsp;:new:
-- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).&nbsp;&nbsp;:new:
+- [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
+- [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).&nbsp;&nbsp;:new:
+- [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
+- [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
+- [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).
+- [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/).
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/).
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
+
+**[⬆ back to top](#contents)**
 
 ## Webpack
 
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
 
+**[⬆ back to top](#contents)**
+
 ## MongoDB
 
+- [A Guide to Building a REST API with Node.js and MongoDB](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
+
+**[⬆ back to top](#contents)**
 
 ## Miscellaneous
 
+- [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
 - [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;:new:
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
+
+**[⬆ back to top](#contents)**
 
 ## Other Awesome Lists
 
@@ -173,6 +265,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 - [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 - [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+**[⬆ back to top](#contents)**
 
 ## Contributing
 
