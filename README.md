@@ -224,6 +224,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html).
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
+- [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c).
 
 **[⬆ back to top](#contents)**
 
