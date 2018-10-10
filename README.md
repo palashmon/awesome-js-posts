@@ -45,7 +45,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 **[⬆ back to top](#contents)**
 
 ## D3.js
+
 - [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
+- [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html).
+
+**[⬆ back to top](#contents)**
 
 ## Ember.js
 
@@ -94,10 +98,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
+- [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).&nbsp;&nbsp;:new:
 - [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).&nbsp;&nbsp;:new:
 - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
-- [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)&nbsp;&nbsp;:new:
+- [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript#readme).
+- [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript).
 - [A Comprehensive Guide to Working with Dates in JavaScript](https://flaviocopes.com/javascript-dates/).
@@ -125,6 +131,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).&nbsp;&nbsp;:new:
 - [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).&nbsp;&nbsp;:new:
 - [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).&nbsp;&nbsp;:new:
+- [Practical Mini-Projects You Could Build with Node](https://youtu.be/qIWNoJv4Lyc).
 - [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).
 - [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).
 - [The fastest Node.js library for formatting terminal text with ANSI colors](https://github.com/lukeed/kleur).
