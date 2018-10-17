@@ -222,6 +222,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Web Development
 
 - [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
+- [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).&nbsp;&nbsp;:new:
 - [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).&nbsp;&nbsp;:new:
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
