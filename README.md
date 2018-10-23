@@ -30,9 +30,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [Using Nested Forms in Angular 6](https://www.telerik.com/blogs/nested-forms-in-angular-6).&nbsp;&nbsp;:new:
 - [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).&nbsp;&nbsp;:new:
 - [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).&nbsp;&nbsp;:new:
-- [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).&nbsp;&nbsp;:new:
+- [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).
 - [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9)
 - [Managing State in Angular using Akita](https://blog.ng-book.com/managing-state-in-angular-using-akita/).
 - [Turning an Angular 6 app into a Progressive Web App](https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6).
@@ -164,8 +165,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).&nbsp;&nbsp;:new:
 - [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).&nbsp;&nbsp;:new:
-- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>&nbsp;&nbsp;:new:
+- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
@@ -204,9 +206,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).&nbsp;&nbsp;:new:
 - [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).&nbsp;&nbsp;:new:
 - [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/).&nbsp;&nbsp;:new:
-- [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).&nbsp;&nbsp;:new:
+- [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 - [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)
 - [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8).
@@ -223,7 +226,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
 - [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).&nbsp;&nbsp;:new:
-- [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).&nbsp;&nbsp;:new:
+- [How to stop using `console.log()` and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).&nbsp;&nbsp;:new:
+- [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
 - [Optimization Auditing: A Deep Dive into Chrome's Dev Console](https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/).
