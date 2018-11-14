@@ -60,8 +60,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## GraphQL
 
+- [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).&nbsp;&nbsp;:new:
 - [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).&nbsp;&nbsp;:new:
-- [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).&nbsp;&nbsp;:new:
+- [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
 
@@ -98,11 +99,15 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## JavaScript
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
+- [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).&nbsp;&nbsp;:new:
+- [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).&nbsp;&nbsp;:new:
+- [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).&nbsp;&nbsp;:new:
 - [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
 - [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).&nbsp;&nbsp;:new:
-- [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).&nbsp;&nbsp;:new:
-- [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).&nbsp;&nbsp;:new:
-- [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).&nbsp;&nbsp;:new:
+- [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).
+- [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).
+- [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).
 - [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript#readme).
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/).
@@ -128,10 +133,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).&nbsp;&nbsp;:new:
+- [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).&nbsp;&nbsp;:new:
 - [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).&nbsp;&nbsp;:new:
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).&nbsp;&nbsp;:new:
-- [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).&nbsp;&nbsp;:new:
-- [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).&nbsp;&nbsp;:new:
+- [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).
+- [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).
 - [Practical Mini-Projects You Could Build with Node](https://youtu.be/qIWNoJv4Lyc).
 - [Unit Testing for Node.js Serverless Framework Projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/).
 - [Why the New V8 is So Darn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast).
@@ -206,9 +213,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/).&nbsp;&nbsp;:new:
 - [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).&nbsp;&nbsp;:new:
 - [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).&nbsp;&nbsp;:new:
-- [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/).&nbsp;&nbsp;:new:
+- [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/)
 - [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 - [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)
 - [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f).
