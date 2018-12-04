@@ -18,6 +18,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Package Manager](#package-manager)
 - [React](#react)
 - [TensorFlow.js](#tensorflowjs)
+- [Testing](#testing)
 - [TypeScript](#typescript)
 - [VS Code](#vs-code)
 - [Vue.js](#vuejs)
@@ -30,9 +31,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
+- [A Basic Guide to Getting Started with Angular Material](https://robferguson.org/blog/2018/11/05/getting-started-with-angular-material/).&nbsp;&nbsp;:new:
 - [Using Nested Forms in Angular 6](https://www.telerik.com/blogs/nested-forms-in-angular-6).&nbsp;&nbsp;:new:
 - [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).&nbsp;&nbsp;:new:
-- [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).&nbsp;&nbsp;:new:
+- [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).
 - [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).
 - [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9)
 - [Managing State in Angular using Akita](https://blog.ng-book.com/managing-state-in-angular-using-akita/).
@@ -70,6 +72,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Glider.js: A Fast, Lightweight Carousel/Scrolling List](https://nickpiscitelli.github.io/Glider.js/).
 - [Sublime Merge: A New Git Client from the Makers of Sublime Text](https://www.sublimemerge.com/).
 - [low.js: A Node.js Port for Embedded Devices](http://www.lowjs.org/).
 - [Ky: A Tiny, Elegant HTTP Client for Browsers Based on Fetch](https://github.com/sindresorhus/ky).
@@ -185,6 +188,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
 - [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
+
+**[⬆ back to top](#contents)**
+
+## Testing
+
+- [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
 
 **[⬆ back to top](#contents)**
 
