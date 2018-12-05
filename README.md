@@ -136,10 +136,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).&nbsp;&nbsp;:new:
 - [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).&nbsp;&nbsp;:new:
 - [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).&nbsp;&nbsp;:new:
 - [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).&nbsp;&nbsp;:new:
-- [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).&nbsp;&nbsp;:new:
+- [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).
 - [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).
 - [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).
 - [Practical Mini-Projects You Could Build with Node](https://youtu.be/qIWNoJv4Lyc).
@@ -273,8 +274,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
+- [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async).&nbsp;&nbsp;:new:
 - [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
-- [The machine Fired me - No human could do a thing about it!][misc-3].&nbsp;&nbsp;:new:
+- [The machine Fired me - No human could do a thing about it!][misc-3].
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
 
