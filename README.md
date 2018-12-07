@@ -72,6 +72,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Demoboard: A Live Code/Demo Editor That Integrates with npm](https://frontarm.com/articles/announcing-demoboard/).
 - [Glider.js: A Fast, Lightweight Carousel/Scrolling List](https://nickpiscitelli.github.io/Glider.js/).
 - [Sublime Merge: A New Git Client from the Makers of Sublime Text](https://www.sublimemerge.com/).
 - [low.js: A Node.js Port for Embedded Devices](http://www.lowjs.org/).
@@ -106,6 +107,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).&nbsp;&nbsp;:new:
 - [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).&nbsp;&nbsp;:new:
 - [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).&nbsp;&nbsp;:new:
+- [Promise Chaining Is Dead. Long Live `async`/`await`](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc).
 - [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
 - [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).&nbsp;&nbsp;:new:
 - [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).
