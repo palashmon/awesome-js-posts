@@ -133,6 +133,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Spice up your JavaScript][js-3].
 - [Revising Useful JavaScript Array and Object Methods][js-1].
 - [A JavaScript String Methods Cheatsheet][js-2].
+- [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a).
 
 **[⬆ back to top](#contents)**
 
