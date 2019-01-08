@@ -104,9 +104,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
+- [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).&nbsp;&nbsp;:new:
+- [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).&nbsp;&nbsp;:new:
 - [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).&nbsp;&nbsp;:new:
-- [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).&nbsp;&nbsp;:new:
-- [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).&nbsp;&nbsp;:new:
+- [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
+- [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).
 - [Promise Chaining Is Dead. Long Live `async`/`await`](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc).
 - [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
 - [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).&nbsp;&nbsp;:new:
