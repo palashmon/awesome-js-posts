@@ -72,6 +72,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [FBT: An Internationalization Framework from Facebook](https://facebookincubator.github.io/fbt/).
 - [Demoboard: A Live Code/Demo Editor That Integrates with npm](https://frontarm.com/articles/announcing-demoboard/).
 - [Glider.js: A Fast, Lightweight Carousel/Scrolling List](https://nickpiscitelli.github.io/Glider.js/).
 - [Sublime Merge: A New Git Client from the Makers of Sublime Text](https://www.sublimemerge.com/).
@@ -110,8 +111,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
 - [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).
 - [Promise Chaining Is Dead. Long Live `async`/`await`](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc).
-- [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).&nbsp;&nbsp;:new:
-- [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).&nbsp;&nbsp;:new:
+- [Execution Context In JavaScript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/).
+- [Understanding Type-Checking and `typeof` in JavaScript](https://blog.logrocket.com/javascript-typeof-2511d53a1a62).
 - [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code#30-seconds-of-code).
 - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/).
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/).
@@ -141,10 +142,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).&nbsp;&nbsp;:new:
+- [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).&nbsp;&nbsp;:new:
 - [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).&nbsp;&nbsp;:new:
 - [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).&nbsp;&nbsp;:new:
-- [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).&nbsp;&nbsp;:new:
-- [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).&nbsp;&nbsp;:new:
+- [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).
+- [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).
 - [Squeeze Node.js Performance with Flame Graphs](https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs).
 - [Got 9.0: A Powerful HTTP Request Library for Node.js](https://github.com/sindresorhus/got).
@@ -192,6 +195,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## TensorFlow.js
 
+- [Artificial Intelligence in JS with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs)
 - [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
 - [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
 
