@@ -105,9 +105,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
+- [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).&nbsp;&nbsp;:new:
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).&nbsp;&nbsp;:new:
 - [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).&nbsp;&nbsp;:new:
-- [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).&nbsp;&nbsp;:new:
+- [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).
 - [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
 - [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).
 - [Promise Chaining Is Dead. Long Live `async`/`await`](https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc).
@@ -251,9 +252,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Libraries To Help You Work with WebGL](https://areknawo.com/your-webgl-aiders/).&nbsp;&nbsp;:new:
 - [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
 - [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).&nbsp;&nbsp;:new:
-- [How to stop using `console.log()` and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).&nbsp;&nbsp;:new:
+- [How to stop using `console.log()` and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
 - [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
 - [Tracking client JavaScript bundle size during development](https://medium.com/@LopezTech/tracking-client-javascript-bundle-size-during-development-f40c6fa69ba6)
