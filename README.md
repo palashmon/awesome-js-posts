@@ -105,9 +105,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
+- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
 - [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).&nbsp;&nbsp;:new:
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).&nbsp;&nbsp;:new:
-- [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).&nbsp;&nbsp;:new:
+- [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).
 - [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).
 - [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
 - [Functional JS with ES6  —  Booleans, Conditionals, and Operators](https://medium.com/dailyjs/functional-js-with-es6-church-booleans-conditionals-and-operators-c0461a9e0a66).
@@ -144,9 +145,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Node.js
 
 - [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).&nbsp;&nbsp;:new:
+- [How to Start A Node Project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/).&nbsp;&nbsp;:new:
 - [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).&nbsp;&nbsp;:new:
 - [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).&nbsp;&nbsp;:new:
-- [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).&nbsp;&nbsp;:new:
+- [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).
 - [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).
 - [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).
 - [How to Debug a Node.js app in a Docker Container](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/).
@@ -185,6 +187,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).&nbsp;&nbsp;:new:
 - [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).&nbsp;&nbsp;:new:
 - [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).&nbsp;&nbsp;:new:
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
