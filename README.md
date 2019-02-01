@@ -62,8 +62,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## GraphQL
 
+- [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).&nbsp;&nbsp;:new:
 - [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).&nbsp;&nbsp;:new:
-- [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).&nbsp;&nbsp;:new:
+- [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
@@ -108,6 +109,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
 - [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).&nbsp;&nbsp;:new:
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).&nbsp;&nbsp;:new:
+- [Animating URLs with JavaScript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/).
 - [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).
 - [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).
 - [The Evolution of Async JavaScript](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/).
@@ -144,10 +146,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Node Multithreading: What Are Worker Threads and Why Do They Matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10).&nbsp;&nbsp;:new:
 - [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).&nbsp;&nbsp;:new:
 - [How to Start A Node Project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/).&nbsp;&nbsp;:new:
 - [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).&nbsp;&nbsp;:new:
-- [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).&nbsp;&nbsp;:new:
+- [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).
 - [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).
 - [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).
 - [Tips for Writing Lambda Functions in Node 8](https://thenewstack.io/tips-for-writing-lambda-functions-in-node-8/).
