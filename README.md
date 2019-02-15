@@ -315,6 +315,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 - [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 - [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js)
 
 **[⬆ back to top](#contents)**
 
