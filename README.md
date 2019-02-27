@@ -73,6 +73,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Split.js: Create Resizable Split Views / Panes / Frames](https://split.js.org/).
+- [git-history: Quickly Browse the History of any GitHub File](https://github.com/pomber/git-history).
 - [FBT: An Internationalization Framework from Facebook](https://facebookincubator.github.io/fbt/).
 - [Demoboard: A Live Code/Demo Editor That Integrates with npm](https://frontarm.com/articles/announcing-demoboard/).
 - [Glider.js: A Fast, Lightweight Carousel/Scrolling List](https://nickpiscitelli.github.io/Glider.js/).
