@@ -148,10 +148,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [How to Run Your Node App on a Headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn).&nbsp;&nbsp;:new:
 - [Node Multithreading: What Are Worker Threads and Why Do They Matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10).&nbsp;&nbsp;:new:
 - [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).&nbsp;&nbsp;:new:
 - [How to Start A Node Project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/).&nbsp;&nbsp;:new:
-- [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).&nbsp;&nbsp;:new:
+- [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).
 - [Create and Verify JWTs with Node](https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node).
 - [6 Main Reasons Why Node Has Become a Standard Technology for Enterprises](https://www.monterail.com/blog/nodejs-development-enterprises).
 - [Creating a logger in Node.js from scratch](https://logrocket.com/blog/creating-a-logger-in-node-js).
@@ -261,9 +262,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization).&nbsp;&nbsp;:new:
 - [Libraries To Help You Work with WebGL](https://areknawo.com/your-webgl-aiders/).&nbsp;&nbsp;:new:
 - [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).&nbsp;&nbsp;:new:
-- [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).&nbsp;&nbsp;:new:
+- [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).
 - [How to stop using `console.log()` and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
 - [Electron 3.0: The Cross Platform Desktop App Framework](https://electronjs.org/blog/electron-3-0).
 - [Write less code, ship more apps: How Vulcan.js makes me an efficient developer](https://medium.com/dailyjs/write-less-code-ship-more-apps-how-vulcan-js-makes-me-an-efficient-developer-71c829c76417)
