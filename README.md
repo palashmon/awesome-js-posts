@@ -73,6 +73,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [ky-universal: Use Ky in Both Node.js and Browsers](https://github.com/sindresorhus/ky-universal).
 - [Split.js: Create Resizable Split Views / Panes / Frames](https://split.js.org/).
 - [git-history: Quickly Browse the History of any GitHub File](https://github.com/pomber/git-history).
 - [FBT: An Internationalization Framework from Facebook](https://facebookincubator.github.io/fbt/).
@@ -148,6 +149,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).&nbsp;&nbsp;:pushpin:
 - [How to Run Your Node App on a Headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn).&nbsp;&nbsp;:new:
 - [Node Multithreading: What Are Worker Threads and Why Do They Matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10).&nbsp;&nbsp;:new:
 - [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).&nbsp;&nbsp;:new:
@@ -296,7 +298,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
-- [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async).&nbsp;&nbsp;:new:
+- [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0).&nbsp;&nbsp;:new:
+- [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async).
 - [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
 - [The machine Fired me - No human could do a thing about it!][misc-3].
 - [Microsoft + GitHub = Empowering Developers][misc-1].
