@@ -225,7 +225,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## TypeScript
 
-- [TypeScript 3.0 is here with improved error messages, JSX default props and more...](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/).&nbsp;&nbsp;:pushpin:
+- [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/).&nbsp;&nbsp;:pushpin:
 - [Type-Driven Development: Replacing Unit Tests with Types in Typescript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/).&nbsp;&nbsp;:new:
 - [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/).&nbsp;&nbsp;:new:
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/).<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>
