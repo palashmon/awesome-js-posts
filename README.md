@@ -185,6 +185,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [Using the Experimental ES Module Support in Node 10][nodejs-8].
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52).
 - [Learn Node.js](https://learnnode.com/)
+- [Everything you need to know about Event Loop](https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810).&nbsp;&nbsp;:pushpin:
 
 **[⬆ back to top](#contents)**
 
