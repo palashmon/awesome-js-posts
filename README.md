@@ -73,6 +73,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd).
 - [eslint-plugin-unicorn: Various Awesome ESLint Rules](https://github.com/sindresorhus/eslint-plugin-unicorn).
 - [Easy Attach: A Helper Tool To Dynamically Launch the Debugger](https://github.com/hediet/easy-attach).
 - [ky-universal: Use Ky in Both Node.js and Browsers](https://github.com/sindresorhus/ky-universal).
@@ -152,9 +153,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Node.js
 
 - [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).&nbsp;&nbsp;:pushpin:
-- [The Process of Black-Box Testing a Node.js Web API](https://medium.com/@grantcarthew/black-box-testing-a-node-js-web-api-d626f7d651be?sk=752454287184e662f3792a281a50527b).&nbsp;&nbsp;:new:
-- [How to Run Your Node App on a Headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn).&nbsp;&nbsp;:new:
-- [Node Multithreading: What Are Worker Threads and Why Do They Matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10).&nbsp;&nbsp;:new:
+- [Build an Interactive Voice Response Menu using Node and Express](https://dev.to/nexmo/build-an-interactive-voice-response-menu-using-node-js-and-express-3io8).&nbsp;&nbsp;:new:
+- [On Node 12's New Experimental ES Modules Support](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff).
+- [The Process of Black-Box Testing a Node.js Web API](https://medium.com/@grantcarthew/black-box-testing-a-node-js-web-api-d626f7d651be?sk=752454287184e662f3792a281a50527b).
+- [How to Run Your Node App on a Headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn).
+- [Node Multithreading: What Are Worker Threads and Why Do They Matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10).
 - [Five Common Mistakes in Every Node App](https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc).
 - [How to Start A Node Project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/).
 - [How to Debug Node in A Docker Container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi).
@@ -269,9 +272,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
-- [ES5 to ESNext — Here's Every Feature Added to JavaScript Since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e).&nbsp;&nbsp;:new:
-- [Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization).&nbsp;&nbsp;:new:
-- [Libraries To Help You Work with WebGL](https://areknawo.com/your-webgl-aiders/).&nbsp;&nbsp;:new:
+- [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).&nbsp;&nbsp;:new:
+- [ES5 to ESNext — Here's Every Feature Added to JavaScript Since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e).
+- [Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization).
+- [Libraries To Help You Work with WebGL](https://areknawo.com/your-webgl-aiders/).
 - [Idle Until Urgent: A Performance Strategy](https://philipwalton.com/articles/idle-until-urgent/).
 - [Introducing `idle-comp`: A Composable Idle Until Urgent Aproach](https://munizart.github.io/2018/10/11/introducing-idle-comp/).
 - [How to stop using `console.log()` and start using your browser's debugger](https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff).
