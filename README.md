@@ -31,9 +31,16 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
-- [A Basic Guide to Getting Started with Angular Material](https://robferguson.org/blog/2018/11/05/getting-started-with-angular-material/).&nbsp;&nbsp;:new:
-- [Using Nested Forms in Angular 6](https://www.telerik.com/blogs/nested-forms-in-angular-6).&nbsp;&nbsp;:new:
-- [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).&nbsp;&nbsp;:new:
+- [Angular - All Talks from ng-conf 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/).&nbsp;&nbsp;:new:
+- [What's New in Angular (Google I/O '19)](https://www.youtube.com/watch?v=FiVw6zjgw24).
+- [Angular 8.0.0-RC.0 is out!](https://github.com/angular/angular/blob/master/CHANGELOG.md#800-rc0-2019-04-25).
+- [Full Stack Angular PWA example app with NgRx & NestJS](https://github.com/avatsaev/angular-contacts-app-example).
+- [Clean Code Checklist in Angular](https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74).
+- [Understanding RxJS Subjects, Behavior Subjects, and Replay Subjects Using a Deck of Cards](https://levelup.gitconnected.com/understanding-rxjs-subjects-behaviour-subjects-replay-subjects-with-a-deck-of-cards-5e5a3aac096f).
+- [Stop Repeating Yourself in Angular: How to Create Abstract Components](https://medium.com/@ozak/stop-repeating-yourself-in-angular-how-to-create-abstract-components-9726d43c99ab).
+- [A Basic Guide to Getting Started with Angular Material](https://robferguson.org/blog/2018/11/05/getting-started-with-angular-material/).
+- [Using Nested Forms in Angular 6](https://www.telerik.com/blogs/nested-forms-in-angular-6).
+- [Using new Babel 7 and preset-typescript to compile Angular 6 app](https://medium.com/@hubert.zub/using-babel-7-and-preset-typescript-to-compile-angular-6-app-448eb1880f2c).
 - [Angular 6 CLI: Why You Need It And How To Use It](https://medium.com/@alexmaisiura/angular-6-cli-why-you-need-it-and-how-to-use-it-6c488f653974).
 - [How Did Angular CLI Budgets Save My Day And How They Can Save Yours](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a).
 - [Angular 7 is coming](https://itnext.io/angular-7-is-coming-766c2bf644f9)
