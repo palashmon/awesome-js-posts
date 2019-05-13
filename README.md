@@ -56,6 +56,11 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## D3.js
 
+- [D3 Zoom, the math, the matrix, the transform, the complete guide](http://www.datamake.io/blog/d3-zoom).
+- [Building a better D3 axis](https://blog.scottlogic.com/2019/05/09/building-a-better-d3-axis.html).
+- [How to work with D3.js's general update pattern](https://medium.freecodecamp.org/how-to-work-with-d3-jss-general-update-pattern-8adce8d55418?sk=5b77620e72921aff5a6977f1da759fd2).
+- [Build a live graph with D3.js](https://pusher.com/tutorials/live-graph-d3).
+- [d3-x3dom makes it easy to quickly produce beautiful 3D data visualisations](https://observablehq.com/collection/@jamesleesaunders/d3-x3dom).
 - [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
 - [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html).
 
