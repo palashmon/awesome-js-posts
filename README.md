@@ -68,6 +68,15 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Ember.js
 
+- [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
+- [Decorators Arrive in Ember 3.10 & more...](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html).
+- [EmberConf 2019 Videos](https://www.youtube.com/playlist?list=PL4eq2DPpyBblEJ1OsbZBjsiVXRW9RFlGY).
+- [Ember 3.9 Released](https://blog.emberjs.com/2019/04/10/ember-3-9-released.html).
+- [Sam Selikoff - Choosing Ember.js in 2018](http://www.fullstackradio.com/89).
+- [Ember: Our Secret Weapon](https://www.prototypal.io/blog/).
+- [Ember.js is growing - Stats from npm](https://twitter.com/nullvoxpopuli/status/1065203836065906688).
+- [A preview of Ember.js Octane](https://www.youtube.com/watch?v=BV09blWlc64).
+- [Ember.js: The Documentary 2019](https://videos.honeypot.io/emberjs-documentary-2019/).
 - [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
 
 **[⬆ back to top](#contents)**
