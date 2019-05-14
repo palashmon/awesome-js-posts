@@ -244,6 +244,12 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Testing
 
+- [End-to-End Testing Web Apps: The Painless Way](https://mtlynch.io/painless-web-app-testing/).
+- [Writing Testable Code](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb).
+- [An intro to Mutation Testing - or why coverage sucks](https://pedrorijo.com/blog/intro-mutation/).
+- [Top Tutorials To Learn POSTMAN For REST API Testing](https://medium.com/quick-code/top-tutorials-to-learn-postman-for-rest-api-testing-3bdf9788e0ba).
+- [99 Things You Can Do To Become A Better Software Tester v2.0](https://ministryoftesting.com/dojo/lessons/community-thoughts-99-things-you-can-do-to-become-a-better-software-tester-v2-0).
+- [My Story of Test Automation](https://testretreat.com/2019/05/06/test-automation/).
 - [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
 
 **[⬆ back to top](#contents)**
