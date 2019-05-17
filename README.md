@@ -280,9 +280,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
+- [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/).&nbsp;&nbsp;:new:
 - [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/).&nbsp;&nbsp;:new:
 - [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).&nbsp;&nbsp;:new:
-- [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).&nbsp;&nbsp;:new:
+- [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).
 - [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/)
 - [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
 - [Dates in Vuex: Primitives or Complex Objects?](https://medium.com/dailyjs/dates-in-vuex-primitives-or-complex-objects-6e6b29ebb880)
