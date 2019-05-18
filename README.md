@@ -329,7 +329,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## MongoDB
 
-- [A Guide to Building a REST API with Node.js and MongoDB](https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0).
+- [MongoDB Tutorial - CRUD app from scratch using Node.js](https://morioh.com/p/00a17923e850/mongodb-tutorial-crud-app-from-scratch-using-node-js).
+- [How To Merge Multiple SQL Tables Into One MongoDB Collection](https://studio3t.com/knowledge-base/articles/merge-multiple-sql-tables-to-mongodb/).
+- [30+ Common MongoDB Interview Questions and Answers (v 4.0 Update)](https://www.fullstack.cafe/blog/30-best-mongodb-interview-questions-and-answers).
+- [Mongoku: A neat, new Web interface for Mongo](https://github.com/huggingface/Mongoku#mongoku).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
 
 **[⬆ back to top](#contents)**
