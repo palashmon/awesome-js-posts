@@ -322,6 +322,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Webpack
 
+- [Webpack 4 Ultimate Tutorial: Learn basics in one video](https://www.youtube.com/watch?v=D_9wd19X5gQ).
+- [New features in Webpack 5](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e).
+- [Webpack (v4) Code Splitting using SplitChunksPlugin](https://itnext.io/react-router-and-webpack-v4-code-splitting-using-splitchunksplugin-f0a48f110312).
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
 
