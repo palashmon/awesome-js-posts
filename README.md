@@ -85,6 +85,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 - [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).&nbsp;&nbsp;:new:
 - [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).&nbsp;&nbsp;:new:
+- [How to Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api).
 - [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).
 - [GraphQL: Everything You Need to Know][graphql-1].
@@ -94,6 +95,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Just: A JavaScript Task Library from Microsoft](https://microsoft.github.io/just/).
+- [FUNC: Another Simple Way to Build Command-Line Tools](https://github.com/unix/func).
 - [Swagger Client: A JS Client to Fetch, Resolve, and Interact with Swagger/OpenAPI Documents](https://github.com/swagger-api/swagger-js).
 - [Shepherd: Guide Your Users Through a Tour of Your App](https://github.com/shipshapecode/shepherd).
 - [eslint-plugin-unicorn: Various Awesome ESLint Rules](https://github.com/sindresorhus/eslint-plugin-unicorn).
