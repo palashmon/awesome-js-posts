@@ -365,6 +365,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+- [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
 - [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
 - [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
