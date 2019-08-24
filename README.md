@@ -139,6 +139,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
 - [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).&nbsp;&nbsp;:new:
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
+- [5 Uses for the Spread Operator](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i).
 - [8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)
 - [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).
@@ -180,7 +181,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Node.js
 
 - [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).&nbsp;&nbsp;:pushpin:
-- [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs).&nbsp;&nbsp;:new:
+- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices).&nbsp;&nbsp;:new:
+- [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs).
 - [Build an Interactive Voice Response Menu using Node and Express](https://dev.to/nexmo/build-an-interactive-voice-response-menu-using-node-js-and-express-3io8).
 - [On Node 12's New Experimental ES Modules Support](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff).
 - [The Process of Black-Box Testing a Node.js Web API](https://medium.com/@grantcarthew/black-box-testing-a-node-js-web-api-d626f7d651be?sk=752454287184e662f3792a281a50527b).
@@ -287,7 +289,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 ## Vue.js
 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
-- [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/).&nbsp;&nbsp;:new:
+- [Future-Oriented Programming with Vue 3](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b).&nbsp;&nbsp;:new:
+- [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/).
 - [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/).&nbsp;&nbsp;:new:
 - [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).&nbsp;&nbsp;:new:
 - [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).
@@ -307,8 +310,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
+- [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/).&nbsp;&nbsp;:new:
 - [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4).&nbsp;&nbsp;:new:
-- [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).&nbsp;&nbsp;:new:
+- [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).
 - [ES5 to ESNext — Here's Every Feature Added to JavaScript Since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e).
 - [Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization).
 - [Libraries To Help You Work with WebGL](https://areknawo.com/your-webgl-aiders/).
