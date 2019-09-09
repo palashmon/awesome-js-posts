@@ -95,6 +95,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle).
+- [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js)
 - [Just: A JavaScript Task Library from Microsoft](https://microsoft.github.io/just/).
 - [FUNC: Another Simple Way to Build Command-Line Tools](https://github.com/unix/func).
 - [Swagger Client: A JS Client to Fetch, Resolve, and Interact with Swagger/OpenAPI Documents](https://github.com/swagger-api/swagger-js).
