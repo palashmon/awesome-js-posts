@@ -95,6 +95,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [Campkit: A Framework for Building Node.js Microservices Faster](https://github.com/getcampsite/campkit).
 - [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle).
 - [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js)
 - [Just: A JavaScript Task Library from Microsoft](https://microsoft.github.io/just/).
@@ -145,6 +146,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)
 - [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).
+- [How JavaScript Works: How V8 Optimizes for Efficiency](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/).
 - [Animating URLs with JavaScript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/).
 - [Making Sense Of JavaScript's Closure With Some Examples](https://medium.com/dailyjs/some-examples-to-help-understand-javascripts-closure-372e42fff94d).
 - [Going Beyond `console.log()`](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8).
@@ -356,6 +358,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Miscellaneous
 
+- [The OpenJS Foundation Launches Two Node.js Certifications](https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/).
 - [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0).&nbsp;&nbsp;:new:
 - [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async).
 - [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/).
