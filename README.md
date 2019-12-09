@@ -144,6 +144,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
 - [5 Uses for the Spread Operator](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i).
 - [8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)
+- [Handling `null` and `undefined` in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae).
 - [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en/).
 - [Top JavaScript Frameworks and Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20).
 - [How JavaScript Works: How V8 Optimizes for Efficiency](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/).
