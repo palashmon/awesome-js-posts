@@ -238,9 +238,10 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## React
 
+- [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).&nbsp;&nbsp;:new:
 - [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).&nbsp;&nbsp;:new:
-- [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).&nbsp;&nbsp;:new:
-- [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).&nbsp;&nbsp;:new:
+- [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).
+- [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
