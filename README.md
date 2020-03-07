@@ -95,6 +95,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
+- [ Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js).
 - [Campkit: A Framework for Building Node.js Microservices Faster](https://github.com/getcampsite/campkit).
 - [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle).
 - [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js)
@@ -185,6 +186,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Node.js
 
+- [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
 - [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).&nbsp;&nbsp;:pushpin:
 - [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices).&nbsp;&nbsp;:new:
 - [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs).
