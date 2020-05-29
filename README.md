@@ -229,6 +229,13 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 **[⬆ back to top](#contents)**
 
+## Deno
+
+- [A 50 Minute Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
+- [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2).
+- [Deploy Deno to Azure App Service using GitHub Action](https://github.com/marketplace/actions/deploy-deno-to-azure-app-service).
+- [Deno is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/).
+
 ## Package Manager
 
 - [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/).&nbsp;&nbsp;:new:
@@ -318,7 +325,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Web Development
 
-- [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/).&nbsp;&nbsp;:new:
+- [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294).&nbsp;&nbsp;:new:
+- [Strapi 3.0 Released: An Open Source Headless Node.js CMS](https://strapi.io/blog/strapi-stable-community-edition).
+- [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/)
 - [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4).&nbsp;&nbsp;:new:
 - [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).
 - [ES5 to ESNext — Here's Every Feature Added to JavaScript Since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e).
