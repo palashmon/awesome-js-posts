@@ -31,7 +31,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Angular
 
-- [Angular - All Talks from ng-conf 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/).&nbsp;&nbsp;:new:
+- [Version 10 of Angular Now Available](https://blog.angular.io/version-10-of-angular-now-available-78960babd41).&nbsp;&nbsp;:new:
+- [What's New in Angular 9](https://www.grapecity.com/blogs/what-to-expect-in-angular-9).
+- [Angular - All Talks from ng-conf 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/).
 - [What's New in Angular (Google I/O '19)](https://www.youtube.com/watch?v=FiVw6zjgw24).
 - [Angular 8.0.0-RC.0 is out!](https://github.com/angular/angular/blob/master/CHANGELOG.md#800-rc0-2019-04-25).
 - [Full Stack Angular PWA example app with NgRx & NestJS](https://github.com/avatsaev/angular-contacts-app-example).
@@ -95,7 +97,8 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Helper Components
 
-- [ Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js).
+- [Financial: A Zero-Dependency Financial Calculations Library](https://github.com/lmammino/financial#readme).
+- [Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js).
 - [Campkit: A Framework for Building Node.js Microservices Faster](https://github.com/getcampsite/campkit).
 - [Fiddle: The Easiest Way to Get Started with Electron](https://github.com/electron/fiddle).
 - [ApexCharts: A JavaScript Chart (and More) Library](https://github.com/apexcharts/apexcharts.js)
@@ -143,6 +146,9 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
 - [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).&nbsp;&nbsp;:new:
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
+- [What’s new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8).
+- [Type Safe JavaScript with JSDoc](https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76).
+- [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/).
 - [5 Uses for the Spread Operator](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i).
 - [8 Useful JavaScript Tricks](https://devinduct.com/blogpost/26/8-useful-javascript-tricks)
 - [Handling `null` and `undefined` in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae).
@@ -231,6 +237,7 @@ A curated list of latest posts, blogs and repositories related to [JavaScript][j
 
 ## Deno
 
+- [Started using **Deno**? Get a digest of the latest news, tutorials and projects. Deno Weekly](https://denoweekly.com/).
 - [A 50 Minute Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 - [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2).
 - [Deploy Deno to Azure App Service using GitHub Action](https://github.com/marketplace/actions/deploy-deno-to-azure-app-service).
