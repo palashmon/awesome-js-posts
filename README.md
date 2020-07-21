@@ -2,9 +2,16 @@
 
 [![Awesome][awesome-badge]][awesome-github]&nbsp;![PRs Welcome][pr-welcome-badge]
 
-A curated list of latest posts, blogs and repositories related to [JavaScript][javascript] updated on weekly basis.
+<div>
+  
+<i>A curated list of latest posts, blogs and repositories related to [JavaScript][javascript]</i>
 
-<br>
+<a href="https://github.com/palashmon/awesome-js-posts/stargazers"><img src="https://img.shields.io/github/stars/palashmon/awesome-js-posts" alt="Stars Badge"/></a>
+<a href="https://github.com/palashmon/awesome-js-posts/network/members"><img src="https://img.shields.io/github/forks/palashmon/awesome-js-posts" alt="Forks Badge"/></a>
+<a href="https://github.com/palashmon/awesome-js-posts/pulls"><img src="https://img.shields.io/github/issues-pr/palashmon/awesome-js-posts" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/palashmon/awesome-js-posts/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/palashmon/awesome-js-posts?color=2b9348"></a>
+
+</div>
 
 ## Contents
 
