@@ -104,6 +104,7 @@
 
 ## Helper Components
 
+- [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon).
 - [Financial: A Zero-Dependency Financial Calculations Library](https://github.com/lmammino/financial#readme).
 - [Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js).
 - [Campkit: A Framework for Building Node.js Microservices Faster](https://github.com/getcampsite/campkit).
@@ -154,6 +155,8 @@
 - [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).&nbsp;&nbsp;:new:
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
 - [What’s new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8).
+- [What 'Polymorphism' Means in JavaScript](https://zellwk.com/blog/polymorphism-javascript/).
+- [Natively Formatting JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times/).
 - [Type Safe JavaScript with JSDoc](https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76).
 - [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/).
 - [5 Uses for the Spread Operator](https://dev.to/laurieontech/5-uses-for-the-spread-operator-b9i).
@@ -261,6 +264,7 @@
 
 ## React
 
+- [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3).
 - [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).&nbsp;&nbsp;:new:
 - [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).&nbsp;&nbsp;:new:
 - [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).
