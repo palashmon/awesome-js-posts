@@ -459,7 +459,9 @@
 
 <details>
 <summary>Show all posts</summary><p>
- 
+
+- [11 Morning Routines That Will Help You Prevent Burnout](https://blog.wmsa.tech/11-morning-routines-that-will-help-you-prevent-burnout).
+- [21 Awesome DEV portfolios for your inspiration](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration).
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [The OpenJS Foundation Launches Two Node.js Certifications](https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/).
 - [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0).&nbsp;&nbsp;:new:
