@@ -336,6 +336,7 @@
 - [99 Things You Can Do To Become A Better Software Tester v2.0](https://ministryoftesting.com/dojo/lessons/community-thoughts-99-things-you-can-do-to-become-a-better-software-tester-v2-0).
 - [My Story of Test Automation](https://testretreat.com/2019/05/06/test-automation/).
 - [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
+- [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 </p></details>
 
 **[⬆ back to top](#contents)**
