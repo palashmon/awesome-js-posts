@@ -32,6 +32,7 @@
 - [Web Development](#web-development)
 - [Webpack](#webpack)
 - [MongoDB](#mongodb)
+- [Next.js](#nextjs)
 - [Miscellaneous](#miscellaneous)
 
 <br>
@@ -452,6 +453,19 @@
 - [30+ Common MongoDB Interview Questions and Answers (v 4.0 Update)](https://www.fullstack.cafe/blog/30-best-mongodb-interview-questions-and-answers).
 - [Mongoku: A neat, new Web interface for Mongo](https://github.com/huggingface/Mongoku#mongoku).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
+</p></details>
+
+**[⬆ back to top](#contents)**
+
+## Next.js
+
+<details>
+<summary>Show all posts</summary><p>
+ 
+- [Building a Realtime GraphQL Chat Application With SMS Notifications](https://levelup.gitconnected.com/building-a-realtime-graphql-chat-application-with-sms-notifications-cc8ecbd0ada0)
+- [Why I Got Rid of getInitialProps in My Next.js Project](https://betterprogramming.pub/why-i-got-rid-of-getinitialprops-in-my-next-js-project-fc926e98ed61)
+- [Real-time Page Views with Next.js and Supabase](https://codebycorey.com/blog/page-views-nextjs-supabase)
+- [Authentication Patterns for Next.js](https://leerob.io/blog/nextjs-authentication)
 </p></details>
 
 **[⬆ back to top](#contents)**
