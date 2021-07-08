@@ -172,8 +172,9 @@
  
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
-- [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).&nbsp;&nbsp;:new:
-- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).&nbsp;&nbsp;:new:
+- [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript).  
+- [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).
+- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).
 - [What’s new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8).
 - [What 'Polymorphism' Means in JavaScript](https://zellwk.com/blog/polymorphism-javascript/).
 - [Natively Formatting JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times/).
