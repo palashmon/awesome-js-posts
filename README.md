@@ -18,6 +18,7 @@
 - [Angular](#angular)
 - [D3.js](#d3js)
 - [Ember.js](#emberjs)
+- [Git](#git)
 - [GraphQL](#graphql)
 - [Helper Components](#helper-components)
 - [JavaScript](#javascript)
@@ -95,6 +96,19 @@
 - [A preview of Ember.js Octane](https://www.youtube.com/watch?v=BV09blWlc64).
 - [Ember.js: The Documentary 2019](https://videos.honeypot.io/emberjs-documentary-2019/).
 - [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
+</p></details>
+
+**[⬆ back to top](#contents)**
+
+## Git
+
+<details>
+<summary>Show all posts</summary><p>
+ 
+- [25 Git commands I use daily and you should know](https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5).
+- [Top 5 Git Tips & Tricks](https://dev.to/gitlive/top-5-git-tips-tricks-8na).
+- [The best VS Code extensions to supercharge Git](https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588).
+
 </p></details>
 
 **[⬆ back to top](#contents)**
@@ -303,7 +317,9 @@
  
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3).
 - [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).&nbsp;&nbsp;:new:
-- [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).&nbsp;&nbsp;:new:
+- [React Cheat sheet (Updated June 2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd).
+- [React Libraries To Use In 2021: 17 Top Picks](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7).
+- [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).
 - [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df).
 - [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e).
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6).&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
@@ -407,8 +423,9 @@
  
 - [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294).&nbsp;&nbsp;:new:
 - [Strapi 3.0 Released: An Open Source Headless Node.js CMS](https://strapi.io/blog/strapi-stable-community-edition).
+
 - [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/)
-- [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4).&nbsp;&nbsp;:new:
+- [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4).
 - [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).
 - [ES5 to ESNext — Here's Every Feature Added to JavaScript Since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e).
 - [Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization).
@@ -478,7 +495,9 @@
 
 - [11 Morning Routines That Will Help You Prevent Burnout](https://blog.wmsa.tech/11-morning-routines-that-will-help-you-prevent-burnout).
 - [21 Awesome DEV portfolios for your inspiration](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration).
-- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [Ultimate Cheatsheet Compilation](https://dev.to/palashmon/ultimate-cheatsheet-compilation-32c9).
+- [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to).
+- [How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f).
 - [The OpenJS Foundation Launches Two Node.js Certifications](https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/).
 - [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0).&nbsp;&nbsp;:new:
 - [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async).
