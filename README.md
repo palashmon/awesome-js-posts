@@ -117,9 +117,10 @@
 
 <details>
 <summary>Show all posts</summary><p>
- 
-- [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).&nbsp;&nbsp;:new:
-- [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).&nbsp;&nbsp;:new:
+
+- [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux).  
+- [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).
+- [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).
 - [How to Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api).
 - [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/).
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).
@@ -315,6 +316,7 @@
 <details>
 <summary>Show all posts</summary><p>
  
+- [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3).
 - [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).&nbsp;&nbsp;:new:
 - [React Cheat sheet (Updated June 2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd).
@@ -493,6 +495,7 @@
 <details>
 <summary>Show all posts</summary><p>
 
+- [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://beyond-average.hashnode.dev/how-to-build-a-great-developer-portfolio-examples-and-tools)  
 - [11 Morning Routines That Will Help You Prevent Burnout](https://blog.wmsa.tech/11-morning-routines-that-will-help-you-prevent-burnout).
 - [21 Awesome DEV portfolios for your inspiration](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration).
 - [Ultimate Cheatsheet Compilation](https://dev.to/palashmon/ultimate-cheatsheet-compilation-32c9).
