@@ -86,6 +86,7 @@
 <details>
 <summary>Show all posts</summary><p>
  
+- [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)&nbsp;&nbsp;:new:
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
 - [Decorators Arrive in Ember 3.10 & more...](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html).
 - [EmberConf 2019 Videos](https://www.youtube.com/playlist?list=PL4eq2DPpyBblEJ1OsbZBjsiVXRW9RFlGY).
@@ -135,6 +136,7 @@
 <details>
 <summary>Show all posts</summary><p>
  
+- [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
 - [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon).
 - [Financial: A Zero-Dependency Financial Calculations Library](https://github.com/lmammino/financial#readme).
 - [Panolens.js: A JavaScript Panorama Viewer Based on Three.js](https://github.com/pchen66/panolens.js).
@@ -187,7 +189,10 @@
  
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
-- [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript).  
+- [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript).
+- [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/).
+- [How to convert arrays to human-readable lists in JavaScript](https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/).
+- [The Ultimate Guide to Browser-Side Storage](https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage).
 - [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions).
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/).
 - [What’s new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8).
@@ -242,9 +247,10 @@
 <details>
 <summary>Show all posts</summary><p>
  
-- [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
-- [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).&nbsp;&nbsp;:pushpin:
-- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices).&nbsp;&nbsp;:new:
+- [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)&nbsp;&nbsp;:pushpin:
+- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices).&nbsp;&nbsp;:pushpin:
+- [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)&nbsp;&nbsp;:new:
+- [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/).
 - [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs).
 - [Build an Interactive Voice Response Menu using Node and Express](https://dev.to/nexmo/build-an-interactive-voice-response-menu-using-node-js-and-express-3io8).
 - [On Node 12's New Experimental ES Modules Support](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff).
@@ -317,8 +323,10 @@
 <summary>Show all posts</summary><p>
  
 - [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
+- [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)&nbsp;&nbsp;:new:   
+- [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer).  
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3).
-- [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).&nbsp;&nbsp;:new:
+- [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).
 - [React Cheat sheet (Updated June 2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd).
 - [React Libraries To Use In 2021: 17 Top Picks](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7).
 - [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d).
@@ -398,10 +406,12 @@
 <summary>Show all posts</summary><p>
  
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
-- [Future-Oriented Programming with Vue 3](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b).&nbsp;&nbsp;:new:
+- [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/).&nbsp;&nbsp;:new:
+- [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/).&nbsp;&nbsp;:new:
+- [Future-Oriented Programming with Vue 3](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b).
 - [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/).
-- [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/).&nbsp;&nbsp;:new:
-- [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).&nbsp;&nbsp;:new:
+- [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/).
+- [What You Need to Know about Vue CLI 3](https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3).
 - [How to Create a Vue.js Plugin in 1 Hour](https://snipcart.com/blog/vue-js-plugin).
 - [Making Phone Calls from a Web Browser with Vue.js and Nexmo In-App Voice](https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/)
 - [Handling Authentication In Vue Using Vuex](https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex).
