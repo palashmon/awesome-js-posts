@@ -136,6 +136,7 @@
 <details>
 <summary>Show all posts</summary><p>
  
+- [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release).  
 - [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
 - [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon).
 - [Financial: A Zero-Dependency Financial Calculations Library](https://github.com/lmammino/financial#readme).
@@ -356,7 +357,9 @@
 
 <details>
 <summary>Show all posts</summary><p>
- 
+
+- [Wallaby.js: 15x Faster JavaScript/jest Testing and Debugging](https://wallabyjs.com/?utm_source=awesome-js-posts&utm_medium=github).
+- [Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)](https://github.com/goldbergyoni/javascript-testing-best-practices).
 - [End-to-End Testing Web Apps: The Painless Way](https://mtlynch.io/painless-web-app-testing/).
 - [Writing Testable Code](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb).
 - [An intro to Mutation Testing - or why coverage sucks](https://pedrorijo.com/blog/intro-mutation/).
@@ -505,6 +508,7 @@
 <details>
 <summary>Show all posts</summary><p>
 
+- [Announcing RedwoodJS 1.0 and $1M Funding](https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html).
 - [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://beyond-average.hashnode.dev/how-to-build-a-great-developer-portfolio-examples-and-tools)  
 - [11 Morning Routines That Will Help You Prevent Burnout](https://blog.wmsa.tech/11-morning-routines-that-will-help-you-prevent-burnout).
 - [21 Awesome DEV portfolios for your inspiration](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration).
