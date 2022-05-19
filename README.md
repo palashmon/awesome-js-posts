@@ -136,7 +136,8 @@
 <details>
 <summary>Show all posts</summary><p>
  
-- [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release).  
+- [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string)  
+- [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release)
 - [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
 - [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon).
 - [Financial: A Zero-Dependency Financial Calculations Library](https://github.com/lmammino/financial#readme).
@@ -239,6 +240,7 @@
 - [Revising Useful JavaScript Array and Object Methods][js-1].
 - [A JavaScript String Methods Cheatsheet][js-2].
 - [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a).
+- [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)  
 </p></details>
 
 **[⬆ back to top](#contents)**
