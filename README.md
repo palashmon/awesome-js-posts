@@ -379,9 +379,13 @@
 <details>
 <summary>Show all posts</summary><p>
  
-- [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/).&nbsp;&nbsp;:pushpin:
-- [Type-Driven Development: Replacing Unit Tests with Types in Typescript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/).&nbsp;&nbsp;:new:
-- [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/).&nbsp;&nbsp;:new:
+- [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/).&nbsp;&nbsp;:pushpin:
+- [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
+- [Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
+- [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/).
+- [Type-Driven Development: Replacing Unit Tests with Types in Typescript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/).
+- [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/).
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/).<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/).
 - [What's new in TypeScript 2.9][ts-1].
@@ -440,7 +444,6 @@
  
 - [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294).&nbsp;&nbsp;:new:
 - [Strapi 3.0 Released: An Open Source Headless Node.js CMS](https://strapi.io/blog/strapi-stable-community-edition).
-
 - [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/)
 - [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4).
 - [The Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/).
