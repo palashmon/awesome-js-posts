@@ -40,7 +40,10 @@
 
 ## Angular
 
-- [Version 10 of Angular Now Available](https://blog.angular.io/version-10-of-angular-now-available-78960babd41).&nbsp;&nbsp;:new:
+- [Angular at I/O 2022](https://blog.angular.io/angular-at-i-o-2022-b0db02c9b596)&nbsp;&nbsp;:new:
+- [Angular 14 new features](https://www.webtutpro.com/angular-14-new-features-7f2d223f3b7b)
+- [Angular Pipes Simplified](https://javascript.plainenglish.io/angular-pipes-simplified-41ec4e1711f3)
+- [Version 10 of Angular Now Available](https://blog.angular.io/version-10-of-angular-now-available-78960babd41)
 - [What's New in Angular 9](https://www.grapecity.com/blogs/what-to-expect-in-angular-9).
 - [Angular - All Talks from ng-conf 2019](https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/).
 - [What's New in Angular (Google I/O '19)](https://www.youtube.com/watch?v=FiVw6zjgw24).
