@@ -109,7 +109,7 @@
 <details>
 <summary>Show all posts</summary><p>
  
-- [25 Git commands I use daily and you should know](https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5).
+- [25 Git commands I use daily and you should know](https://devdefinitive.com/25-git-commands-i-use-daily-and-you-should-know).
 - [Top 5 Git Tips & Tricks](https://dev.to/gitlive/top-5-git-tips-tricks-8na).
 - [The best VS Code extensions to supercharge Git](https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588).
 
