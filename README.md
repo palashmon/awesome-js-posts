@@ -4,7 +4,9 @@
 
 <div>
   
-<i>A curated list of latest posts, blogs and repositories related to [JavaScript][javascript]</i>
+A curated list of latest posts, blogs and repositories related to [JavaScript][javascript].
+
+This list is the result of Pull Requests, reviews, ideas and work done by 10+ people. You too can help by sending [Pull Requests](https://github.com/palashmon/awesome-js-posts) to add more links or by remove ones which links are not working anymore.
 
 <a href="https://github.com/palashmon/awesome-js-posts/stargazers"><img src="https://img.shields.io/github/stars/palashmon/awesome-js-posts" alt="Stars Badge"/></a>
 <a href="https://github.com/palashmon/awesome-js-posts/network/members"><img src="https://img.shields.io/github/forks/palashmon/awesome-js-posts" alt="Forks Badge"/></a>
@@ -70,9 +72,6 @@
 
 ## D3.js
 
-<details>
-<summary>Show all posts</summary><p>
-  
 - [D3 Zoom, the math, the matrix, the transform, the complete guide](http://www.datamake.io/blog/d3-zoom).
 - [Building a better D3 axis](https://blog.scottlogic.com/2019/05/09/building-a-better-d3-axis.html).
 - [How to work with D3.js's general update pattern](https://medium.freecodecamp.org/how-to-work-with-d3-jss-general-update-pattern-8adce8d55418?sk=5b77620e72921aff5a6977f1da759fd2).
@@ -80,14 +79,10 @@
 - [d3-x3dom makes it easy to quickly produce beautiful 3D data visualisations](https://observablehq.com/collection/@jamesleesaunders/d3-x3dom).
 - [Learn to Create D3.js Data Visualizations by Example](https://www.sitepoint.com/d3-js-data-visualizations/)
 - [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html).
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Ember.js
-
-<details>
-<summary>Show all posts</summary><p>
  
 - [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)&nbsp;&nbsp;:new:
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
@@ -100,27 +95,18 @@
 - [A preview of Ember.js Octane](https://www.youtube.com/watch?v=BV09blWlc64).
 - [Ember.js: The Documentary 2019](https://videos.honeypot.io/emberjs-documentary-2019/).
 - [Conversation with Ember co-creator Tom Dale on Ember 3.0 and the future of Ember](https://devchat.tv/js-jabber/jsj-326-conversation-with-ember-co-creator-tom-dale-on-ember-3-0-and-the-future-of-ember/).
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Git
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [25 Git commands I use daily and you should know](https://devdefinitive.com/25-git-commands-i-use-daily-and-you-should-know).
 - [Top 5 Git Tips & Tricks](https://dev.to/gitlive/top-5-git-tips-tricks-8na).
 - [The best VS Code extensions to supercharge Git](https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588).
 
-</p></details>
-
 **[⬆ back to top](#contents)**
 
 ## GraphQL
-
-<details>
-<summary>Show all posts</summary><p>
 
 - [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux).  
 - [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).
@@ -130,15 +116,11 @@
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8).
 - [GraphQL: Everything You Need to Know][graphql-1].
 - [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Helper Components
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string)  
 - [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release)
 - [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
@@ -183,15 +165,11 @@
 - [Proppy: Functional Props Composition for UI Components][component-2].
 - [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3].
 - [9 Javascript Time And Date Libraries For 2018][component-4].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## JavaScript
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
 - [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript).
@@ -243,16 +221,12 @@
 - [Revising Useful JavaScript Array and Object Methods][js-1].
 - [A JavaScript String Methods Cheatsheet][js-2].
 - [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a).
-- [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)  
-</p></details>
+- [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)
 
 **[⬆ back to top](#contents)**
 
 ## Node.js
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)&nbsp;&nbsp;:pushpin:
 - [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices).&nbsp;&nbsp;:pushpin:
 - [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)&nbsp;&nbsp;:new:
@@ -294,40 +268,28 @@
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52).
 - [Learn Node.js](https://learnnode.com/)
 - [Everything you need to know about Event Loop](https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810).
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Deno
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Started using **Deno**? Get a digest of the latest news, tutorials and projects. Deno Weekly](https://denoweekly.com/).
 - [A 50 Minute Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 - [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2).
 - [Deploy Deno to Azure App Service using GitHub Action](https://github.com/marketplace/actions/deploy-deno-to-azure-app-service).
 - [Deno is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/).
-</p></details>
 
 ## Package Manager
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/).&nbsp;&nbsp;:new:
 - [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management).
 - [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
 - [To Yarn and Back (to npm) Again][pm-1].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## React
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
 - [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)&nbsp;&nbsp;:new:   
 - [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer).  
@@ -342,26 +304,18 @@
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## TensorFlow.js
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Artificial Intelligence in JS with TensorFlow.js](https://www.javascriptjanuary.com/blog/artificial-intelligence-in-javascript-with-tensorflowjs)
 - [Serverless Machine Learning With TensorFlow.js](http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/)
 - [Taking Your First Steps with TensorFlow.js](https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Testing
-
-<details>
-<summary>Show all posts</summary><p>
 
 - [Wallaby.js: 15x Faster JavaScript/jest Testing and Debugging](https://wallabyjs.com/?utm_source=awesome-js-posts&utm_medium=github).
 - [Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)](https://github.com/goldbergyoni/javascript-testing-best-practices).
@@ -373,15 +327,11 @@
 - [My Story of Test Automation](https://testretreat.com/2019/05/06/test-automation/).
 - [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/).&nbsp;&nbsp;:pushpin:
 - [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - [Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
@@ -394,29 +344,21 @@
 - [What's new in TypeScript 2.9][ts-1].
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935).
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## VS Code
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/).&nbsp;&nbsp;:new:
 - [Syntax Highlighting in VS Code for HTML Inside of JavaScript](https://github.com/mjbvz/vscode-lit-html).
 - [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1].
 - [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2].
 - [Better Comments extension will help you create more human-friendly comments in your code][vscode-3].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Vue.js
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
 - [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/).&nbsp;&nbsp;:new:
 - [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/).&nbsp;&nbsp;:new:
@@ -436,15 +378,11 @@
 - [Build a Basic CRUD App with Vue.js and Node][vue-1].
 - [Replacing jQuery with Vue][vue-2].&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
 - [Useful Vue patterns, techniques, tips and tricks and helpful curated links][vue-5].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Web Development
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294).&nbsp;&nbsp;:new:
 - [Strapi 3.0 Released: An Open Source Headless Node.js CMS](https://strapi.io/blog/strapi-stable-community-edition).
 - [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/)
@@ -466,55 +404,39 @@
 - [The Problem You Solve Is More Important Than The Code You Write][webdev-2].
 - [Create a Simple Weather App using Node, Express, and React][webdev-1].
 - [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c).
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Webpack
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Webpack 4 Ultimate Tutorial: Learn basics in one video](https://www.youtube.com/watch?v=D_9wd19X5gQ).
 - [New features in Webpack 5](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e).
 - [Webpack (v4) Code Splitting using SplitChunksPlugin](https://itnext.io/react-router-and-webpack-v4-code-splitting-using-splitchunksplugin-f0a48f110312).
 - [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1].
 - [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## MongoDB
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [MongoDB Tutorial - CRUD app from scratch using Node.js](https://morioh.com/p/00a17923e850/mongodb-tutorial-crud-app-from-scratch-using-node-js).
 - [How To Merge Multiple SQL Tables Into One MongoDB Collection](https://studio3t.com/knowledge-base/articles/merge-multiple-sql-tables-to-mongodb/).
 - [30+ Common MongoDB Interview Questions and Answers (v 4.0 Update)](https://www.fullstack.cafe/blog/30-best-mongodb-interview-questions-and-answers).
 - [Mongoku: A neat, new Web interface for Mongo](https://github.com/huggingface/Mongoku#mongoku).
 - [A Crash course on Serverless APIs with Express and MongoDB](https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k).
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Next.js
 
-<details>
-<summary>Show all posts</summary><p>
- 
 - [Building a Realtime GraphQL Chat Application With SMS Notifications](https://levelup.gitconnected.com/building-a-realtime-graphql-chat-application-with-sms-notifications-cc8ecbd0ada0)
 - [Why I Got Rid of getInitialProps in My Next.js Project](https://betterprogramming.pub/why-i-got-rid-of-getinitialprops-in-my-next-js-project-fc926e98ed61)
 - [Real-time Page Views with Next.js and Supabase](https://codebycorey.com/blog/page-views-nextjs-supabase)
 - [Authentication Patterns for Next.js](https://leerob.io/blog/nextjs-authentication)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Miscellaneous
-
-<details>
-<summary>Show all posts</summary><p>
 
 - [Announcing RedwoodJS 1.0 and $1M Funding](https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html).
 - [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://beyond-average.hashnode.dev/how-to-build-a-great-developer-portfolio-examples-and-tools)  
@@ -530,15 +452,11 @@
 - [The machine Fired me - No human could do a thing about it!][misc-3].
 - [Microsoft + GitHub = Empowering Developers][misc-1].
 - [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2].
-</p></details>
 
 **[⬆ back to top](#contents)**
 
 ## Other Awesome Lists
 
-<details>
-<summary>Show all lists</summary><p>
- 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
@@ -555,7 +473,6 @@
 - [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 - [maximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js)
-</p></details>
 
 **[⬆ back to top](#contents)**
 
