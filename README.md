@@ -4,7 +4,7 @@
 
 <div>
   
-A curated list of latest posts, blogs and repositories related to **JavaScript**.
+A curated list of latest posts, blogs and repositories related to <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>.
 
 This list is the result of Pull Requests, reviews, ideas and work done by 10+ people. You too can help by sending [Pull Requests](https://github.com/palashmon/awesome-js-posts) to add more links or by remove ones which links are not working anymore.
 
