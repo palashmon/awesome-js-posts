@@ -100,6 +100,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Git
 
+- [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
+- [How to Learn Git Slowly](https://suchdevblog.com/lessons/HowToLearnGit.html#i-basic-solo-use)
+- [A Guide to writing Industry Standard Git Commit Message](https://dev.to/tuasegun/a-guide-to-writing-industry-standard-git-commit-message-2ohl)
+- [Merging Pull Requests Like a Pro With Mergify](https://dev.to/aniket762/merging-pull-requests-like-a-pro-with-mergify-30fa)
 - [25 Git commands I use daily and you should know](https://devdefinitive.com/25-git-commands-i-use-daily-and-you-should-know).
 - [Top 5 Git Tips & Tricks](https://dev.to/gitlive/top-5-git-tips-tricks-8na).
 - [The best VS Code extensions to supercharge Git](https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588).
