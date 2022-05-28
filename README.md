@@ -72,6 +72,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## D3.js
 
+- [Data Visualization with D3 – Full Course for Beginners (2022)](https://www.youtube.com/watch?v=xkBheRZTkaw)
+- [A crash course in React.js and D3](https://dev.to/keefdrive/a-crash-course-in-reactjs-and-d3-4j06)
+- [D3.js Tutorial – Data Visualization for Beginners](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
 - [D3 Zoom, the math, the matrix, the transform, the complete guide](http://www.datamake.io/blog/d3-zoom).
 - [Building a better D3 axis](https://blog.scottlogic.com/2019/05/09/building-a-better-d3-axis.html).
 - [How to work with D3.js's general update pattern](https://medium.freecodecamp.org/how-to-work-with-d3-jss-general-update-pattern-8adce8d55418?sk=5b77620e72921aff5a6977f1da759fd2).
