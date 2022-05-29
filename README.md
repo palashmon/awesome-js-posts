@@ -3,7 +3,7 @@
 [![Awesome][awesome-badge]][awesome-github]&nbsp;![PRs Welcome][pr-welcome-badge]
 
 <div>
-  
+
 A curated list of latest posts, blogs and repositories related to <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>.
 
 This list is the result of Pull Requests, reviews, ideas and work done by 10+ people. You too can help by sending [Pull Requests](https://github.com/palashmon/awesome-js-posts) to add more links or by remove ones which links are not working anymore.
@@ -36,6 +36,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Webpack](#webpack)
 - [MongoDB](#mongodb)
 - [Next.js](#nextjs)
+- [Solid.js](#solidjs)
 - [Miscellaneous](#miscellaneous)
 
 <br>
@@ -86,7 +87,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 **[⬆ back to top](#contents)**
 
 ## Ember.js
- 
+
 - [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)&nbsp;&nbsp;:new:
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
 - [Decorators Arrive in Ember 3.10 & more...](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html).
@@ -115,7 +116,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## GraphQL
 
-- [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux).  
+- [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux).
 - [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).
 - [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).
 - [How to Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api).
@@ -128,7 +129,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Helper Components
 
-- [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string)  
+- [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string)
 - [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release)
 - [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
 - [Aeon: A Lightweight Date Picker Built with Web Components](https://github.com/lamplightdev/aeon).
@@ -298,8 +299,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## React
 
 - [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
-- [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)&nbsp;&nbsp;:new:   
-- [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer).  
+- [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)&nbsp;&nbsp;:new:
+- [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer).
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3).
 - [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120).
 - [React Cheat sheet (Updated June 2021)](https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd).
@@ -443,10 +444,16 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 **[⬆ back to top](#contents)**
 
+## Solid.js
+
+- [An Intro to Solid.js for React Developers](https://non-traditional.dev/an-intro-to-solidjs-for-react-developers)
+
+**[⬆ back to top](#contents)**
+
 ## Miscellaneous
 
 - [Announcing RedwoodJS 1.0 and $1M Funding](https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html).
-- [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://beyond-average.hashnode.dev/how-to-build-a-great-developer-portfolio-examples-and-tools)  
+- [How to Build a Great Developer Portfolio (+ Examples & Tools)](https://beyond-average.hashnode.dev/how-to-build-a-great-developer-portfolio-examples-and-tools)
 - [11 Morning Routines That Will Help You Prevent Burnout](https://blog.wmsa.tech/11-morning-routines-that-will-help-you-prevent-burnout).
 - [21 Awesome DEV portfolios for your inspiration](https://madza.hashnode.dev/21-awesome-dev-portfolios-for-your-inspiration).
 - [Ultimate Cheatsheet Compilation](https://dev.to/palashmon/ultimate-cheatsheet-compilation-32c9).
