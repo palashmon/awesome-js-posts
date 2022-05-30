@@ -446,7 +446,11 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Solid.js
 
+- [SolidJS in 100 Seconds by Fireship](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
 - [An Intro to Solid.js for React Developers](https://non-traditional.dev/an-intro-to-solidjs-for-react-developers)
+- [Introducing the SolidJS UI Library by Ryan Carniato](https://dev.to/ryansolid/introducing-the-solidjs-ui-library-4mck)
+- [The State of SolidJS - March 2022](https://www.solidjs.com/blog/state-of-solid-march-2022)
+- [The State of SolidJS - September 2021](https://dev.to/ryansolid/state-of-solid-september-2021-4mi2)
 
 **[⬆ back to top](#contents)**
 
