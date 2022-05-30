@@ -88,7 +88,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Ember.js
 
-- [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)&nbsp;&nbsp;:new:
+- [Ember 4.4 Released](https://blog.emberjs.com/ember-released-4-4)
+- [Uploading images to S3 in Ember.js](https://balinterdi.com/blog/image-uploads-to-s3-in-ember-js-part-1/)
+- [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
 - [Decorators Arrive in Ember 3.10 & more...](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html).
 - [EmberConf 2019 Videos](https://www.youtube.com/playlist?list=PL4eq2DPpyBblEJ1OsbZBjsiVXRW9RFlGY).
