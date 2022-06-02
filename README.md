@@ -118,6 +118,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## GraphQL
 
+- [Learn GraphQL In One Week](https://oneweekgraphql.com/)
+- [The supergraph: a new way to think about GraphQL](https://www.apollographql.com/blog/announcement/backend/the-supergraph-a-new-way-to-think-about-graphql/)
 - [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux).
 - [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/).
 - [How to Set Up a GraphQL Server using Express.js and MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474).
