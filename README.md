@@ -182,6 +182,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## JavaScript
 
+- [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98).&nbsp;&nbsp;:pushpin:
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/).&nbsp;&nbsp;:pushpin:
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme).&nbsp;&nbsp;:pushpin:
 - [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript).
