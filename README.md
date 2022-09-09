@@ -133,6 +133,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Helper Components
 
+- [JSON Crack: Seamlessly visualize your JSON data instantly into graphs](https://jsoncrack.com/)
+- [Useful JavaScript Data Grid Libraries](https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/)
 - [crypto-random-string 5.0: Generate a Cryptographically Strong Random String](https://github.com/sindresorhus/crypto-random-string)
 - [Rome Formatter: A new formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/04/05/rome-formatter-release)
 - [new-tailwind-app: Set up a tailwind app with `npx new-tailwind-app`](https://github.com/msaaddev/new-tailwind-app).
