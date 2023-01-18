@@ -27,6 +27,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Node.js](#nodejs)
 - [Package Manager](#package-manager)
 - [React](#react)
+- [React Query](#react-query)
 - [TensorFlow.js](#tensorflowjs)
 - [Testing](#testing)
 - [TypeScript](#typescript)
@@ -319,6 +320,16 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [React Native at Airbnb][react-2].
 - [Building Serverless Mobile Apps with React Native and AWS][react-1].
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
+
+**[⬆ back to top](#contents)**
+
+## React Query
+
+- [What's new in React query v4?](https://tanstack.com/query/v4/docs/react/guides/migrating-to-react-query-4)
+- [Fetching and Updating Data with React Query](https://blog.openreplay.com/fetching-and-updating-data-with-react-query/).
+- [Optimistically Update Data With React Query In Your ReactJS Application](https://upmostly.com/tutorials/optimistically-update-data-with-react-query-in-your-reactjs-application).
+- [Getting Started With UseQuery in React Query](https://builtin.com/software-engineering-perspectives/use-query-react).
+- [Type-Safe React Query – It's All About Trust](https://tkdodo.eu/blog/type-safe-react-query).
 
 **[⬆ back to top](#contents)**
 
