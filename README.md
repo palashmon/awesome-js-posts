@@ -358,7 +358,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## TypeScript
 
-- [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/).&nbsp;&nbsp;:pushpin:
+- [Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+- [Using Typescript without compilation](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
+- [TypeScript Function Types: A Beginner's Guide](https://dmitripavlutin.com/typescript-function-type/)
+- [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 - [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - [Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
 - [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
