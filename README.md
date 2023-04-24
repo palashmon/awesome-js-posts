@@ -36,6 +36,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Next.js](#nextjs)
 - [Solid.js](#solidjs)
 - [Miscellaneous](#miscellaneous)
+- [Other Awesome Lists](#other-awesome-lists)
 
 <br>
 
