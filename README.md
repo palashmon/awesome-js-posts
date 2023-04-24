@@ -41,7 +41,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Angular
 
-- [Angular at I/O 2022](https://blog.angular.io/angular-at-i-o-2022-b0db02c9b596)&nbsp;&nbsp;:new:
+- [Angular at I/O 2022](https://blog.angular.io/angular-at-i-o-2022-b0db02c9b596)
 - [Angular 14 new features](https://www.webtutpro.com/angular-14-new-features-7f2d223f3b7b)
 - [Angular Pipes Simplified](https://javascript.plainenglish.io/angular-pipes-simplified-41ec4e1711f3)
 - [Version 10 of Angular Now Available](https://blog.angular.io/version-10-of-angular-now-available-78960babd41)
@@ -65,7 +65,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Building an Audio Player App with Ionic, Angular, RxJS, and NgRx](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/)
 - [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 - [Quickly create real Angular prototypes without writing code](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e)
-- [NgRx and Best Practices for Enterprise Angular Applications][angular-1]
+- [NgRx and Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 
 ## D3.js
 
@@ -116,8 +116,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [How to Create a Secure Node.js GraphQL API](https://www.toptal.com/graphql/graphql-nodejs-api)
 - [Why GraphQL: Advantages, Disadvantages and Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
 - [How to Create GraphQL APIs with Node and MongoDB](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8)
-- [GraphQL: Everything You Need to Know][graphql-1]
-- [GraphQL Stack: A chart that shows how all the tools interconnect][graphql-2]
+- [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
+- [GraphQL Stack: A chart that shows how all the tools interconnect](https://www.graphqlstack.com/)
 
 ## Helper Components
 
@@ -162,17 +162,17 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/)&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505)
 - [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax)
-- [Netflix releases Polly, a client-side library to record and replay HTTP interactions][component-5]
-- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies][component-1]
-- [Proppy: Functional Props Composition for UI Components][component-2]
-- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting][component-3]
-- [9 JavaScript Time And Date Libraries For 2018][component-4]
+- [Netflix releases Polly, a client-side library to record and replay HTTP interactions](https://netflix.github.io/pollyjs/)
+- [rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies](https://github.com/zewish/rmodal.js)
+- [Proppy: Functional Props Composition for UI Components](https://proppyjs.com/)
+- [Paper.js: A 'Swiss Army Knife' for Vector Graphics Scripting](http://paperjs.org/)
+- [9 JavaScript Time And Date Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
 
 ## JavaScript
 
-- [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)&nbsp;&nbsp;:pushpin:
-- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)&nbsp;&nbsp;:pushpin:
-- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme)&nbsp;&nbsp;:pushpin:
+- [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme)
 - [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript)
 - [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/)
 - [How to convert arrays to human-readable lists in JavaScript](https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/)
@@ -212,23 +212,23 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg)
 - [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA)
-- [What’s New In ES2018][js-8]
+- [What’s New In ES2018](https://www.sitepoint.com/es2018-whats-new/)
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/)
-- [A minimal guide to ECMAScript Decorators][js-7]
-- [11 JavaScript Resources For Every Level of Expertise][js-6]
-- [Understanding the Almighty Reducer][js-5]
-- [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work][js-4]
-- [Spice up your JavaScript][js-3]
-- [Revising Useful JavaScript Array and Object Methods][js-1]
-- [A JavaScript String Methods Cheatsheet][js-2]
+- [A minimal guide to ECMAScript Decorators](https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e)
+- [11 JavaScript Resources For Every Level of Expertise](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources)
+- [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/)
+- [Here's Why Mapping a Constructed Array in JavaScript Doesn't Work](https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a)
+- [Spice up your JavaScript](https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5)
+- [Revising Useful JavaScript Array and Object Methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
+- [A JavaScript String Methods Cheatsheet](https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d)
 - [Understanding Functional Programming with JavaScript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 - [Rust from 0 to 80% for JavaScript Developers](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/)
 
 ## Node.js
 
-- [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)&nbsp;&nbsp;:pushpin:
-- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)&nbsp;&nbsp;:pushpin:
-- [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)&nbsp;&nbsp;:new:
+- [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
+- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
 - [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/)
 - [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs)
 - [Build an Interactive Voice Response Menu using Node and Express](https://dev.to/nexmo/build-an-interactive-voice-response-menu-using-node-js-and-express-3io8)
@@ -253,19 +253,19 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391)
 - [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk)
 - [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
-- [node-pg-migrate: Node.js Database Migration Management for Postgresql][nodejs-11]
-- [Getting Started with Docker Images for Node Apps][nodejs-10]
-- [Implementing Feature Flags with Node and React][nodejs-9]
-- [How to Watch for Files Changes in Node.js][nodejs-1]
-- [Getting Started With Ripple (XRP) and Node.js][nodejs-2]
-- [Building a Facebook Messenger Chat Bot with Node.js][nodejs-3]
-- [Building Light Weight Microservices with Redis (and Node)][nodejs-4]
-- [10 Things Ryan Dahl Regrets About Node.js][nodejs-5]
-  - [See also deno: A secure TypeScript runtime on V8][nodejs-6]
-- [Build a Twelve-Factor Node.js App with Docker][nodejs-7]
-- [Using the Experimental ES Module Support in Node 10][nodejs-8]
+- [node-pg-migrate: Node.js Database Migration Management for Postgresql](https://github.com/salsita/node-pg-migrate)
+- [Getting Started with Docker Images for Node Apps](https://code.visualstudio.com/tutorials/docker-extension/getting-started)
+- [Implementing Feature Flags with Node and React](https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4)
+- [How to Watch for Files Changes in Node.js](http://thisdavej.com/how-to-watch-for-files-changes-in-node-js/)
+- [Getting Started With Ripple (XRP) and Node.js](https://thecodebarbarian.com/getting-started-with-ripple-xrp-and-node-js.html)
+- [Building a Facebook Messenger Chat Bot with Node.js](https://quantizd.com/building-facebook-messenger-bot-with-nodejs/)
+- [Building Light Weight Microservices with Redis (and Node)](https://www.youtube.com/watch?v=z25CPqJMFUk)
+- [10 Things Ryan Dahl Regrets About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- [See also deno: A secure TypeScript runtime on V8](https://github.com/ry/deno)
+- [Build a Twelve-Factor Node.js App with Docker](https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker)
+- [Using the Experimental ES Module Support in Node 10](https://www.youtube.com/watch?v=teDVlOjOCT0)
 - [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
-- [Learn Node.js](https://learnnode.com/)
+- [The best way to learn server-side JavaScript](https://learnnode.com/)
 - [Everything you need to know about Event Loop](https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810)
 
 ## Deno
@@ -278,15 +278,15 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Package Manager
 
-- [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/)&nbsp;&nbsp;:new:
+- [Create a project using the `npm init initializer` command](https://elijahmanor.com/npm-init-initializer/)
 - [Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management)
 - [Two-Factor Authentication Protection for npm Packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages)
-- [To Yarn and Back (to npm) Again][pm-1]
+- [To Yarn and Back (to npm) Again](https://mixmax.com/blog/to-yarn-and-back-again-npm)
 
 ## React
 
 - [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
-- [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)&nbsp;&nbsp;:new:
+- [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)
 - [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer)
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3)
 - [Building a virtualized list from scratch](https://medium.com/ingeniouslysimple/building-a-virtualized-list-from-scratch-9225e8bec120)
@@ -296,8 +296,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df)
 - [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e)
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
-- [React Native at Airbnb][react-2]
-- [Building Serverless Mobile Apps with React Native and AWS][react-1]
+- [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
+- [Building Serverless Mobile Apps with React Native and AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
 
 ## React Query
@@ -341,23 +341,23 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/)
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/)
-- [What's new in TypeScript 2.9][ts-1]
+- [What's new in TypeScript 2.9](http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html)
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 
 ## VS Code
 
-- [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/)&nbsp;&nbsp;:new:
+- [Curated List Of The Best VS Code Extension Lists](https://www.codewall.co.uk/curated-list-of-the-best-vs-code-extension-lists/)
 - [Syntax Highlighting in VS Code for HTML Inside of JavaScript](https://github.com/mjbvz/vscode-lit-html)
-- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript][vscode-1]
-- [Night Owl: A VS Code dark theme for contrast for nighttime coding][vscode-2]
-- [Better Comments extension will help you create more human-friendly comments in your code][vscode-3]
+- [Subliminal: An opinionated minimalistic VS Code theme for JavaScript](https://github.com/gaearon/subliminal)
+- [Night Owl: A VS Code dark theme for contrast for nighttime coding](https://github.com/sdras/night-owl-vscode-theme)
+- [Better Comments extension will help you create more human-friendly comments in your code](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ## Vue.js
 
-- [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)&nbsp;&nbsp;:pushpin:
-- [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/)&nbsp;&nbsp;:new:
-- [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/)&nbsp;&nbsp;:new:
+- [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)
+- [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/)
+- [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/)
 - [Future-Oriented Programming with Vue 3](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
 - [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/)
 - [Building an Authentication System for a Vue.js App](https://blog.jscrambler.com/vue-js-authentication-system-with-node-js-backend/)
@@ -369,15 +369,15 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Code Splitting Pattern With Vue.js & Webpack](https://medium.com/@sectheater/code-splitting-pattern-with-vuejs-webpack-329d71217e2f)
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
 - [Building a RSS Viewer with Vue.js](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/)
-- [Vuesax New framework Components for Vue.js][vue-4]
-- [From Vanilla JS to Vue.js: A Refactoring Tale][vue-3]
-- [Build a Basic CRUD App with Vue.js and Node][vue-1]
-- [Replacing jQuery with Vue][vue-2]&nbsp;&nbsp;<sub><sup>( Takes a shot at convincing you that using Vue.js doesn't have to be a headache and will help even on basic projects. )</sup></sub>
-- [Useful Vue patterns, techniques, tips and tricks and helpful curated links][vue-5]
+- [Vuesax New framework Components for Vue.js](https://lusaxweb.github.io/vuesax/)
+- [From Vanilla JS to Vue.js: A Refactoring Tale](https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d)
+- [Build a Basic CRUD App with Vue.js and Node](https://dev.to/oktadev/build-a-basic-crud-app-with-vuejs-and-node-4cl8)
+- [Replacing jQuery with Vue](https://www.sitepoint.com/replacing-jquery-vue/)
+- [Useful Vue patterns, techniques, tips and tricks and helpful curated links](https://github.com/learn-vuejs/vue-patterns)
 
 ## Web Development
 
-- [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294)&nbsp;&nbsp;:new:
+- [Pug 3.0.0 released: A Rich Templating Engine for Node](https://medium.com/rollingversions/pug-3-0-0-2897d6dec294)
 - [Strapi 3.0 Released: An Open Source Headless Node.js CMS](https://strapi.io/blog/strapi-stable-community-edition)
 - [Building a Full-Stack Serverless App with Cloudflare Workers](https://css-tricks.com/building-a-full-stack-serverless-application-with-cloudflare-workers/)
 - [How One Team of Freelancers Writes Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4)
@@ -395,8 +395,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [33 Best Online Web Tools For Web Developers And Programmers](https://www.codewall.co.uk/best-online-web-tools-for-web-developers-and-programmers/)
 - [Writing Your Own ESLint Plugin](https://frontendmayhem.com/writing-your-own-eslint-plugins/)
 - [Installable Web Apps: A Practical Introduction To PWAs](https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html)
-- [The Problem You Solve Is More Important Than The Code You Write][webdev-2]
-- [Create a Simple Weather App using Node, Express, and React][webdev-1]
+- [The Problem You Solve Is More Important Than The Code You Write](https://medium.com/@fagnerbrack/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6)
+- [Create a Simple Weather App using Node, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
 - [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c)
 
 ## Webpack
@@ -404,8 +404,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Webpack 4 Ultimate Tutorial: Learn basics in one video](https://www.youtube.com/watch?v=D_9wd19X5gQ)
 - [New features in Webpack 5](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
 - [Webpack (v4) Code Splitting using SplitChunksPlugin](https://itnext.io/react-router-and-webpack-v4-code-splitting-using-splitchunksplugin-f0a48f110312)
-- [Deploy Your Webpack Apps to Heroku in 3 Simple Steps][webpack-1]
-- [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest][webpack-2]
+- [Deploy Your Webpack Apps to Heroku in 3 Simple Steps](https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8)
+- [Critters: Webpack Plugin to Inline Critical CSS and Lazy-Load the Rest](https://github.com/GoogleChromeLabs/critters)
 
 ## MongoDB
 
@@ -440,12 +440,12 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [How to Prevent or Recover from Developer Burnout](https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f)
 - [The OpenJS Foundation Launches Two Node.js Certifications](https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/)
-- [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0)&nbsp;&nbsp;:new:
+- [Understanding a Performance Issue with "Polymorphic" JSON Data](https://medium.com/wolfram-developers/understanding-a-performance-issue-with-polymorphic-json-data-e7e4cd079be0)
 - [Faster Async Functions and Promises for V8](https://v8.dev/blog/fast-async)
 - [How GitHub Removed jQuery From Their Frontend](https://githubengineering.com/removing-jquery-from-github-frontend/)
-- [The machine Fired me - No human could do a thing about it!][misc-3]
-- [Microsoft + GitHub = Empowering Developers][misc-1]
-- [Microsoft acquiring GitHub is a good thing. Here's why.][misc-2]
+- [The machine Fired me - No human could do a thing about it!](https://idiallo.com/blog/when-a-machine-fired-me)
+- [Microsoft + GitHub = Empowering Developers](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)
+- [Microsoft acquiring GitHub is a good thing. Here's why.](https://medium.com/@ow/microsoft-acquiring-github-is-a-good-thing-heres-why-6a6a57eb83ac)
 
 ## Other Awesome Lists
 
@@ -469,92 +469,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Contributing
 
 - Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-<!-- Please add all the links here -->
-
-<!-- Links related to badges -->
-
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[pr-welcome-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-
-<!-- Add Links related to GraphQL here -->
-
-[graphql-1]: https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8
-[graphql-2]: https://www.graphqlstack.com/
-
-<!-- Add Links related to JavaScript here -->
-
-[js-1]: https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230
-[js-2]: https://gist.github.com/rauschma/c46fc10f671ed5bf14021bc14f101c8d
-[js-3]: https://medium.com/@riccardoodone/spice-up-your-javascript-5314bf28f3e5
-[js-4]: https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
-[js-5]: https://css-tricks.com/understanding-the-almighty-reducer/
-[js-6]: https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources
-[js-7]: https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
-[js-8]: https://www.sitepoint.com/es2018-whats-new/
-
-<!-- Add Links related to Node.js here -->
-
-[nodejs-1]: http://thisdavej.com/how-to-watch-for-files-changes-in-node-js/
-[nodejs-2]: https://thecodebarbarian.com/getting-started-with-ripple-xrp-and-node-js.html
-[nodejs-3]: https://quantizd.com/building-facebook-messenger-bot-with-nodejs/
-[nodejs-4]: https://www.youtube.com/watch?v=z25CPqJMFUk
-[nodejs-5]: https://www.youtube.com/watch?v=M3BM9TB-8yA
-[nodejs-6]: https://github.com/ry/deno
-[nodejs-7]: https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker
-[nodejs-8]: https://www.youtube.com/watch?v=teDVlOjOCT0
-[nodejs-9]: https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4
-[nodejs-10]: https://code.visualstudio.com/tutorials/docker-extension/getting-started
-[nodejs-11]: https://github.com/salsita/node-pg-migrate
-
-<!-- Add Links related to VS Code here -->
-
-[vscode-1]: https://github.com/gaearon/subliminal
-[vscode-2]: https://github.com/sdras/night-owl-vscode-theme
-[vscode-3]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
-
-<!-- Add Links related to Vue.js here -->
-
-[vue-1]: https://dev.to/oktadev/build-a-basic-crud-app-with-vuejs-and-node-4cl8
-[vue-2]: https://www.sitepoint.com/replacing-jquery-vue/
-[vue-3]: https://hackernoon.com/from-vanillajs-to-vue-js-a-refactoring-tale-846bee20ba3d
-[vue-4]: https://lusaxweb.github.io/vuesax/
-[vue-5]: https://github.com/learn-vuejs/vue-patterns
-
-<!-- Add Links related to Package Manager here -->
-
-[pm-1]: https://mixmax.com/blog/to-yarn-and-back-again-npm
-
-<!-- Add Links related to helper components here -->
-
-[component-1]: https://github.com/zewish/rmodal.js
-[component-2]: https://proppyjs.com/
-[component-3]: http://paperjs.org/
-[component-4]: https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d
-[component-5]: https://netflix.github.io/pollyjs/
-
-<!-- Add Links related to web development here -->
-
-[webdev-1]: https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
-[webdev-2]: https://medium.com/@fagnerbrack/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6
-
-<!-- Add Links related to Webpack here -->
-
-[webpack-1]: https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
-[webpack-2]: https://github.com/GoogleChromeLabs/critters
-
-<!-- Add Links related to TypeScript here -->
-
-[ts-1]: http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html
-
-<!-- Add Links related to Angular here -->
-
-[angular-1]: https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
-
-<!-- Add Links related to React here -->
-
-[react-1]: https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
-[react-2]: https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c
 
 <!-- Links related to Miscellaneous here -->
 
