@@ -86,7 +86,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Uploading images to S3 in Ember.js](https://balinterdi.com/blog/image-uploads-to-s3-in-ember-js-part-1/)
 - [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
-- [Decorators Arrive in Ember 3.10 & more...](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html)
+- [Decorators Arrive in Ember 3.10 & more](https://blog.emberjs.com/2019/05/03/the-ember-times-issue-96.html)
 - [EmberConf 2019 Videos](https://www.youtube.com/playlist?list=PL4eq2DPpyBblEJ1OsbZBjsiVXRW9RFlGY)
 - [Ember 3.9 Released](https://blog.emberjs.com/2019/04/10/ember-3-9-released.html)
 - [Sam Selikoff - Choosing Ember.js in 2018](http://www.fullstackradio.com/89)
@@ -159,7 +159,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Pushbar.js: Simply Creating 'Sliding Drawers' on Your Pages/Apps](https://oncebot.github.io/pushbar.js/)
 - [StealJS 2.0: The 'Futuristic' Dependency Loader and Builder](https://www.bitovi.com/blog/steal-2.0)
 - [Git and GitHub - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
-- [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/)&nbsp;&nbsp;<sub><sup>( If you need a modal on top of your modal )</sup></sub>
+- [Popbox.js: Stackable Modals for Web Pages](https://oncebot.github.io/popbox.js/)
 - [Get Better Type Checking in JavaScript with the Maybe Type](https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505)
 - [Axax: Async Iterator Extensions for JavaScript e.g. `map`, `reduce`, `filter`, `flatMap`, etc.](https://github.com/jamiemccrindle/axax)
 - [Netflix releases Polly, a client-side library to record and replay HTTP interactions](https://netflix.github.io/pollyjs/)
@@ -179,7 +179,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [The Ultimate Guide to Browser-Side Storage](https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage)
 - [43 JavaScript Questions, With Their Answers Explained](https://github.com/lydiahallie/javascript-questions)
 - [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
-- [What’s new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8)
+- [What's new in V8/JavaScript — June, 2020](https://www.youtube.com/watch?v=TPm-UhWkiq8)
 - [What 'Polymorphism' Means in JavaScript](https://zellwk.com/blog/polymorphism-javascript/)
 - [Natively Formatting JavaScript Dates and Times](https://elijahmanor.com/format-js-dates-and-times/)
 - [Type Safe JavaScript with JSDoc](https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76)
@@ -202,6 +202,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/)
 - [How to use Media Queries in JavaScript with matchMedia](https://www.sitepoint.com/javascript-media-queries/)
 - [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript#readme)
+<!--lint disable no-repeat-punctuation-->
 - [What do the three dots (...) mean in JavaScript?](https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/)
 - [A Little-known Fact About JavaScript Hoisting](https://www.impressivewebs.com/javascript-hoisting-little-known-fact/)
 - [Variable Scope in Modern JavaScript](https://andy-carter.com/blog/variable-scope-in-modern-javascript)
@@ -212,7 +213,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Understanding the 'this' Keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [Snippets for Vanilla JS Coding](https://dev.to/terabaud/snippets-for-vanilla-js-coding-19cg)
 - [The Cost Of JavaScript - Addy Osmani - Fluent 2018](https://www.youtube.com/watch?v=63I-mEuSvGA)
-- [What’s New In ES2018](https://www.sitepoint.com/es2018-whats-new/)
+- [What's New In ES2018](https://www.sitepoint.com/es2018-whats-new/)
 - [Build a Single Page App from Scratch Without a Framework](https://www.sitepoint.com/single-page-app-without-framework/)
 - [A minimal guide to ECMAScript Decorators](https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e)
 - [11 JavaScript Resources For Every Level of Expertise](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources)
@@ -227,7 +228,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Node.js
 
 - [A Growing Collection of 86 Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
-- [JavaScript & Node.js testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Using Redis with Node.js](https://www.sitepoint.com/using-redis-node-js/)
 - [Node v11.11.0 (Current) Released](https://nodejs.org/en/blog/release/v11.11.0/)
 - [Understanding Worker Threads in Node](https://nodesource.com/blog/worker-threads-nodejs)
@@ -270,7 +270,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Deno
 
-- [Started using **Deno**? Get a digest of the latest news, tutorials and projects. Deno Weekly](https://denoweekly.com/)
+- [Started using Deno? Get a digest of the latest news, tutorials and projects. Deno Weekly](https://denoweekly.com/)
 - [A 50 Minute Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 - [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2)
 - [Deploy Deno to Azure App Service using GitHub Action](https://github.com/marketplace/actions/deploy-deno-to-azure-app-service)
@@ -295,7 +295,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
 - [What's New in Create React App 2.0 Video Series](https://medium.com/@elijahmanor/whats-new-in-create-react-app-2-0-video-series-4ffaaa7cb7df)
 - [What is JSX?](https://blog.kentcdodds.com/what-is-jsx-310ab98c463e)
-- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)&nbsp;&nbsp;<sub><sup>( Long, but starts from a very simple level )</sup></sub>
+- [Understanding Redux: The World's Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 - [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 - [Building Serverless Mobile Apps with React Native and AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
@@ -339,7 +339,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/)
 - [Type-Driven Development: Replacing Unit Tests with Types in Typescript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/)
 - [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/)
-- [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)<sub><sup>( Babel 7 now ships with TypeScript support! )</sup></sub>
+- [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/)
 - [What's new in TypeScript 2.9](http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html)
 - [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
@@ -469,9 +469,3 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Contributing
 
 - Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-<!-- Links related to Miscellaneous here -->
-
-[misc-1]: https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
-[misc-2]: https://medium.com/@ow/microsoft-acquiring-github-is-a-good-thing-heres-why-6a6a57eb83ac
-[misc-3]: https://idiallo.com/blog/when-a-machine-fired-me
