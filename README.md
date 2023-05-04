@@ -42,6 +42,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Angular
 
+- [Angular v16 is here](https://blog.angular.io/angular-v16-is-here-4d7a28ec680d)
+- [What's New in Angular 16 and What To Expect](https://betterprogramming.pub/angular-16-whats-new-and-what-to-expect-e14e15e500f8)
 - [Angular at I/O 2022](https://blog.angular.io/angular-at-i-o-2022-b0db02c9b596)
 - [Angular 14 new features](https://www.webtutpro.com/angular-14-new-features-7f2d223f3b7b)
 - [Angular Pipes Simplified](https://javascript.plainenglish.io/angular-pipes-simplified-41ec4e1711f3)
