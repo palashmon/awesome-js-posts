@@ -72,6 +72,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## D3.js
 
+- [Data Visualization With D3.Js](https://blog.openreplay.com/data-visualization-with-d3-js/)
+- [D3.js Resources: Tutorials, Tools, and References](https://yangdanny97.github.io/blog/2022/08/07/d3-resources)
 - [Data Visualization with D3 – Full Course for Beginners (2022)](https://www.youtube.com/watch?v=xkBheRZTkaw)
 - [A crash course in React.js and D3](https://dev.to/keefdrive/a-crash-course-in-reactjs-and-d3-4j06)
 - [D3.js Tutorial – Data Visualization for Beginners](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
