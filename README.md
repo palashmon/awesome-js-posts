@@ -87,7 +87,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Ember.js
 
-- [Ember 4.4 Released](https://blog.emberjs.com/ember-released-4-4)
+- [Ember vs React: Comparison of JS Technologies](https://www.aimprosoft.com/blog/ember-js-vs-react-js/)
+- [Getting started with Ember - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
+- [Ember 4.12 Released](https://blog.emberjs.com/ember-released-4-12)
 - [Uploading images to S3 in Ember.js](https://balinterdi.com/blog/image-uploads-to-s3-in-ember-js-part-1/)
 - [The Road to Ember 4.0 - Polaris](https://blog.emberjs.com/the-road-to-ember-4-0/)
 - [EmberFest 2019 CFP is now open!](https://blog.emberjs.com/2019/05/10/the-ember-times-issue-97.html)
