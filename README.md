@@ -105,6 +105,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Git
 
+- [Git-Sim: Visually Simulate Git Operations In Your Own Repos](https://initialcommit.com/blog/git-sim)
+- [Introduction to Git in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
+- [Highlights from Git 2.41](https://github.blog/2023-06-01-highlights-from-git-2-41/)
 - [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
 - [How to Learn Git Slowly](https://suchdevblog.com/lessons/HowToLearnGit.html#i-basic-solo-use)
 - [A Guide to writing Industry Standard Git Commit Message](https://dev.to/tuasegun/a-guide-to-writing-industry-standard-git-commit-message-2ohl)
