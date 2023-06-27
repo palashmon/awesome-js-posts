@@ -118,6 +118,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## GraphQL
 
+- [GraphQL: Everything You Need to Know](https://dev.to/bitovi/graphql-everything-you-need-to-know-1nbm)
+- [The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs](https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/)
+- [Introduction to GraphQL with MarkLogic](https://www.marklogic.com/blog/introduction-to-graphql-with-marklogic/)
 - [Learn GraphQL In One Week](https://oneweekgraphql.com/)
 - [The supergraph: a new way to think about GraphQL](https://www.apollographql.com/blog/announcement/backend/the-supergraph-a-new-way-to-think-about-graphql/)
 - [Using GraphQL with Axios and Redux](https://blog.desaihetav.me/using-graphql-with-axios-and-redux)
