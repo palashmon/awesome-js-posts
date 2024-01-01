@@ -106,6 +106,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Git
 
 - [Recovering Deleted Files From Your Git Working Tree](https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/)
+- [Use git fetch, pull, push and sync for version control in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-fetch-pull-sync?view=vs-2022)
 - [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 - [Git-Sim: Visually Simulate Git Operations In Your Own Repos](https://initialcommit.com/blog/git-sim)
 - [Introduction to Git in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
