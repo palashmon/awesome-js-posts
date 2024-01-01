@@ -105,6 +105,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Git
 
+- [Recovering Deleted Files From Your Git Working Tree](https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/)
+- [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 - [Git-Sim: Visually Simulate Git Operations In Your Own Repos](https://initialcommit.com/blog/git-sim)
 - [Introduction to Git in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
 - [Highlights from Git 2.41](https://github.blog/2023-06-01-highlights-from-git-2-41/)
