@@ -286,6 +286,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Deno
 
+- [Survey Results and Roadmap 2024](https://deno.com/blog/2024-survey-results-and-roadmap)
+- [Learn Deno and Go Beyond Node.js](https://kinsta.com/blog/deno-js/)
+- [Writing a WebSocket server in JavaScript (Deno)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_a_WebSocket_server_in_JavaScript_Deno)
 - [Started using Deno? Get a digest of the latest news, tutorials and projects. Deno Weekly](https://denoweekly.com/)
 - [A 50 Minute Deno Crash Course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 - [Deno 1.0.2 Released](https://github.com/denoland/deno/releases/tag/v1.0.2)
