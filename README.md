@@ -25,6 +25,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Package Manager](#package-manager)
 - [React](#react)
 - [React Query](#react-query)
+- [Zustand](#zustand)
 - [TensorFlow.js](#tensorflowjs)
 - [Testing](#testing)
 - [TypeScript](#typescript)
@@ -326,6 +327,13 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Optimistically Update Data With React Query In Your ReactJS Application](https://upmostly.com/tutorials/optimistically-update-data-with-react-query-in-your-reactjs-application)
 - [Getting Started With UseQuery in React Query](https://builtin.com/software-engineering-perspectives/use-query-react)
 - [Type-Safe React Query – It's All About Trust](https://tkdodo.eu/blog/type-safe-react-query)
+
+## Zustand
+
+- [Zustand - React state management done right with bear minimum](https://tsh.io/blog/zustand-react/)
+- [Working with Zustand](https://tkdodo.eu/blog/working-with-zustand)
+- [A guide to managing state in Next.js with Zustand](https://articles.wesionary.team/a-guide-to-managing-state-in-next-js-with-zustand-22a2899e5d0f)
+- [Global State Management in NextJs 14 Using Zustand](https://www.youtube.com/watch?v=BxohoXjbhKc)
 
 ## TensorFlow.js
 
