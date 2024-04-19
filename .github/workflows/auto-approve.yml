@@ -1,21 +1,7 @@
-name: Auto-approve Renovate's PRs
-
+name: Auto-approve PR
 on: pull_request_target
-
 permissions:
-  contents: write
   pull-requests: write
-
 jobs:
-  auto-approve-renovate-prs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Git Checkout
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
-        with:
-          fetch-depth: '0'
-      - name: Approve PR
-        if: github.actor == 'renovate[bot]'
-        run: gh pr review --approve ${{ github.event.number }}
-        env:
-          GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+  auto-approve:
+    uses: palashmon/reusable-workflows/.github/workflows/auto-approve.yml@main
