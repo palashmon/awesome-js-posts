@@ -189,6 +189,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 - [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+- [Safe Data Fetching in Modern JavaScript](https://www.builder.io/blog/safe-data-fetching)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme)
 - [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript)
 - [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/)
