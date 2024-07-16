@@ -308,6 +308,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 - [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
+- [Path To A Clean(er) React Architecture - Domain Logic](https://profy.dev/article/react-architecture-domain-logic)
 - [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)
 - [Freelance React Developer Checklist](https://www.robinwieruch.de/freelance-react-developer)
 - [Ink 3: Yep, You Can Build CLI Apps with React Too](https://vadimdemedes.com/posts/ink-3)
