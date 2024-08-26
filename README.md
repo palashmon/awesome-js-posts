@@ -325,11 +325,12 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## React Query
 
-- [What's new in React query v4?](https://tanstack.com/query/v4/docs/react/guides/migrating-to-react-query-4)
+- [Making a REST API typesafe with React Query and Zod](https://noahflk.com/blog/typesafe-rest-api?utm_source=github.palashmon)
+- [What's new in React query v4?](https://tanstack.com/query/v4/docs/react/guides/migrating-to-react-query-4?utm_source=github.palashmon)
 - [Fetching and Updating Data with React Query](https://blog.openreplay.com/fetching-and-updating-data-with-react-query/)
-- [Optimistically Update Data With React Query In Your ReactJS Application](https://upmostly.com/tutorials/optimistically-update-data-with-react-query-in-your-reactjs-application)
-- [Getting Started With UseQuery in React Query](https://builtin.com/software-engineering-perspectives/use-query-react)
-- [Type-Safe React Query – It's All About Trust](https://tkdodo.eu/blog/type-safe-react-query)
+- [Optimistically Update Data With React Query In Your ReactJS Application](https://upmostly.com/tutorials/optimistically-update-data-with-react-query-in-your-reactjs-application?utm_source=github.palashmon)
+- [Getting Started With UseQuery in React Query](https://builtin.com/software-engineering-perspectives/use-query-react?utm_source=github.palashmon)
+- [Type-Safe React Query – It's All About Trust](https://tkdodo.eu/blog/type-safe-react-query?utm_source=github.palashmon)
 
 ## Zustand
 
