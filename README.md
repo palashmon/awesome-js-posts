@@ -322,6 +322,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 - [Building Serverless Mobile Apps with React Native and AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 - [A Complete Beginner's Guide to React](https://zen-of-programming.com/beginners-guide-react)
+- [The URL is a great place to store state in React](https://iamsahaj.xyz/blog/react-state-in-the-url/?utm_source=github.palashmon)
 
 ## React Query
 
@@ -452,6 +453,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Why I Got Rid of getInitialProps in My Next.js Project](https://betterprogramming.pub/why-i-got-rid-of-getinitialprops-in-my-next-js-project-fc926e98ed61)
 - [Real-time Page Views with Next.js and Supabase](https://codebycorey.com/blog/page-views-nextjs-supabase)
 - [Authentication Patterns for Next.js](https://leerob.io/blog/nextjs-authentication)
+- [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance?utm_source=github.palashmon)
 
 ## Solid.js
 
