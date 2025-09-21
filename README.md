@@ -107,7 +107,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## Git
 
 - [Recovering Deleted Files From Your Git Working Tree](https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/)
-- [Use git fetch, pull, push and sync for version control in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-fetch-pull-sync?view=vs-2022)
+- [Use Git fetch, pull, push and sync for version control in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-fetch-pull-sync?view=vs-2022)
 - [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 - [Git-Sim: Visually Simulate Git Operations In Your Own Repos](https://initialcommit.com/blog/git-sim)
 - [Introduction to Git in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
@@ -271,7 +271,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Testing Node.js in 2018](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391)
 - [Creating Enterprise Web Applications with Node](https://www.youtube.com/watch?v=RWE6aV7p0Wk)
 - [A Practical Intro to Multithreading in Node 10.5](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
-- [node-pg-migrate: Node.js Database Migration Management for Postgresql](https://github.com/salsita/node-pg-migrate)
+- [node-pg-migrate: Node.js Database Migration Management for PostgreSQL](https://github.com/salsita/node-pg-migrate)
 - [Getting Started with Docker Images for Node Apps](https://code.visualstudio.com/tutorials/docker-extension/getting-started)
 - [Implementing Feature Flags with Node and React](https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4)
 - [How to Watch for Files Changes in Node.js](http://thisdavej.com/how-to-watch-for-files-changes-in-node-js/)
@@ -306,7 +306,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## React
 
-- [What's new in react 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
+- [What's new in React 18?](https://blog.learncodeonline.in/whats-new-in-react-18)
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 - [Path To A Clean(er) React Architecture - Domain Logic](https://profy.dev/article/react-architecture-domain-logic)
 - [How To Migrate From jQuery To Next.js](https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/)
@@ -338,7 +338,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Zustand - React state management done right with bear minimum](https://tsh.io/blog/zustand-react/)
 - [Working with Zustand](https://tkdodo.eu/blog/working-with-zustand)
 - [A guide to managing state in Next.js with Zustand](https://articles.wesionary.team/a-guide-to-managing-state-in-next-js-with-zustand-22a2899e5d0f)
-- [Global State Management in NextJs 14 Using Zustand](https://www.youtube.com/watch?v=BxohoXjbhKc)
+- [Global State Management in Next.js 14 Using Zustand](https://www.youtube.com/watch?v=BxohoXjbhKc)
 
 ## TensorFlow.js
 
@@ -348,12 +348,12 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Testing
 
-- [Wallaby.js: 15x Faster JavaScript/jest Testing and Debugging](https://wallabyjs.com/?utm_source=awesome-js-posts&utm_medium=github)
+- [Wallaby.js: 15x Faster JavaScript/Jest Testing and Debugging](https://wallabyjs.com/?utm_source=awesome-js-posts&utm_medium=github)
 - [Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [End-to-End Testing Web Apps: The Painless Way](https://mtlynch.io/painless-web-app-testing/)
 - [Writing Testable Code](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb)
 - [An intro to Mutation Testing - or why coverage sucks](https://pedrorijo.com/blog/intro-mutation/)
-- [Top Tutorials To Learn POSTMAN For REST API Testing](https://medium.com/quick-code/top-tutorials-to-learn-postman-for-rest-api-testing-3bdf9788e0ba)
+- [Top Tutorials To Learn Postman For REST API Testing](https://medium.com/quick-code/top-tutorials-to-learn-postman-for-rest-api-testing-3bdf9788e0ba)
 - [99 Things You Can Do To Become A Better Software Tester v2.0](https://ministryoftesting.com/dojo/lessons/community-thoughts-99-things-you-can-do-to-become-a-better-software-tester-v2-0)
 - [My Story of Test Automation](https://testretreat.com/2019/05/06/test-automation/)
 - [Common Testing Mistakes](https://blog.kentcdodds.com/common-testing-mistakes-1a3d2d209f0)
@@ -362,19 +362,19 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 ## TypeScript
 
 - [Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
-- [Using Typescript without compilation](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
+- [Using TypeScript without compilation](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
 - [TypeScript Function Types: A Beginner's Guide](https://dmitripavlutin.com/typescript-function-type/)
 - [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 - [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - [Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
 - [Tips for performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [TypeScript 3.4 is here](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/)
-- [Type-Driven Development: Replacing Unit Tests with Types in Typescript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/)
+- [Type-Driven Development: Replacing Unit Tests with Types in TypeScript](https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/)
 - [TypeScript 3.0: Exploring Tuples and the Unknown Type](https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/)
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
 - [TypeScript 3.0 Release Candidate Announced](https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/)
 - [What's new in TypeScript 2.9](http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html)
-- [Ultimate React Component Patterns with Typescript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
+- [Ultimate React Component Patterns with TypeScript](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 - [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 
 ## VS Code
@@ -486,7 +486,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+- [Vue.js/awesome-vue](https://github.com/vuejs/awesome-vue)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 - [gianarb/awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
 - [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
