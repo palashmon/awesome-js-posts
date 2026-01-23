@@ -192,6 +192,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [Safe Data Fetching in Modern JavaScript](https://www.builder.io/blog/safe-data-fetching)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#readme)
 - [Beginner JavaScript Notes + Reference by @wesbos](https://wesbos.com/javascript)
+- [The Inner Workings of JavaScript Source Maps](https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals)
 - [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/)
 - [How to convert arrays to human-readable lists in JavaScript](https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/)
 - [The Ultimate Guide to Browser-Side Storage](https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage)
@@ -361,6 +362,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## TypeScript
 
+- [Experiment: making TypeScript immutable-by-default](https://evanhahn.com/typescript-immutability-experiment/)
+- [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
 - [Announcing TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 - [Using TypeScript without compilation](https://dev.to/thepassle/using-typescript-without-compilation-3ko4)
 - [TypeScript Function Types: A Beginner's Guide](https://dmitripavlutin.com/typescript-function-type/)
