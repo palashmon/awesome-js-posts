@@ -393,6 +393,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Vue.js
 
+- [Toastflow: TS-first toast engine for Vue 3](https://github.com/adrianjanocko/toastflow)
+- [Vue-stream-markdown: Streaming markdown renderer for Vue 3](https://github.com/jinghaihan/vue-stream-markdown)
 - [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb)
 - [Vue 3 Migration Build: Safely upgrade your app to Vue 3 (Pt. 1)](https://www.vuemastery.com/blog/vue-3-migration-build/)
 - [How to Structure a Large Scale Vue.js Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/)
