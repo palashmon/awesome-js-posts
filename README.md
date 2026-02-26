@@ -138,6 +138,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 
 ## Helper Components
 
+- [Oxfmt Beta: A Fast, Rust-Powered JavaScript Code Formatter](https://oxc.rs/blog/2026-02-24-oxfmt-beta)
 - [Dembrandt: Extract design tokens and components from any site (Playwright)](https://github.com/dembrandt/dembrandt)
 - [PocketMocker: In-browser fetch/XHR interceptor for API mocking](https://github.com/tianchangNorth/pocket-mocker)
 - [Composify: Embed a visual editor to compose pages from real React components](https://github.com/composify-js/composify)
