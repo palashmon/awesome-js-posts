@@ -4,4 +4,4 @@ permissions:
   pull-requests: write
 jobs:
   auto-approve:
-    uses: palashmon/reusable-workflows/.github/workflows/auto-approve.yml@main
+    uses: palashmon/reusable-workflows/.github/workflows/auto-approve.yml@d30c1aaaceab5c7d3f95551c051afce367c2aeba # main
