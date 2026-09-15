@@ -440,6 +440,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [The Problem You Solve Is More Important Than The Code You Write](https://medium.com/@fagnerbrack/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6)
 - [Create a Simple Weather App using Node, Express, and React](https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a)
 - [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c)
+- [IconVectors - SVG icon editor with React, Vue and other code export workflows](https://iconvectors.io/).
 
 ## Webpack
 
