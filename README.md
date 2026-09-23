@@ -490,6 +490,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 10+ pe
 - [The machine Fired me - No human could do a thing about it!](https://idiallo.com/blog/when-a-machine-fired-me)
 - [Microsoft + GitHub = Empowering Developers](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)
 - [Microsoft acquiring GitHub is a good thing. Here's why.](https://medium.com/@ow/microsoft-acquiring-github-is-a-good-thing-heres-why-6a6a57eb83ac)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Other Awesome Lists
 
